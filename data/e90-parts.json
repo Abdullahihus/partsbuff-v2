@@ -1,0 +1,4255 @@
+[
+  {
+    "id": "front-right-wheel-housing-cover",
+    "category": "Body / Wheel Arch",
+    "name": "Front Right Wheel Housing Cover",
+    "oemNumber": "51717059378",
+    "aliases": [
+      "front right fender liner",
+      "passenger fender liner",
+      "splash shield",
+      "wheel well liner",
+      "inner fender",
+      "plastic behind passenger front tire",
+      "plastic inside passenger wheel well"
+    ],
+    "symptoms": [
+      "plastic rubbing tire",
+      "plastic hanging behind wheel",
+      "missing plastic in wheel well",
+      "broken wheel liner"
+    ],
+    "location": "Inside the passenger-side front wheel well",
+    "side": "Passenger",
+    "description": "Large plastic inner wheel-well liner that shields the body and engine bay from water, stones, and road debris.",
+    "fitmentNotes": "Verified for the supported 11/2011 E90 LCI 328i catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Wheel arch trim, front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5862&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-wheel-housing-cover",
+    "category": "Body / Wheel Arch",
+    "name": "Front Left Wheel Housing Cover",
+    "oemNumber": "51717059377",
+    "aliases": [
+      "front left fender liner",
+      "driver fender liner",
+      "splash shield",
+      "wheel well liner",
+      "inner fender",
+      "plastic behind driver front tire",
+      "plastic inside driver wheel well"
+    ],
+    "symptoms": [
+      "plastic rubbing tire",
+      "plastic hanging behind wheel",
+      "missing plastic in wheel well",
+      "broken wheel liner"
+    ],
+    "location": "Inside the driver-side front wheel well",
+    "side": "Driver",
+    "description": "Large plastic inner wheel-well liner that shields the body and engine bay from water, stones, and road debris.",
+    "fitmentNotes": "Verified for the supported 11/2011 E90 LCI 328i catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Wheel arch trim, front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5862&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-reinforcement-cover",
+    "category": "Body / Wheel Arch",
+    "name": "Front Right Reinforcement Cover",
+    "oemNumber": "51717159190",
+    "aliases": [
+      "small plastic behind passenger wheel",
+      "reinforcement cover",
+      "small wheel well cover",
+      "passenger reinforcement trim"
+    ],
+    "symptoms": [
+      "small plastic panel missing near wheel",
+      "small cover hanging in wheel well"
+    ],
+    "location": "Passenger-side front wheel-arch reinforcement area",
+    "side": "Passenger",
+    "description": "Small plastic cover mounted around the front wheel-arch reinforcement area.",
+    "fitmentNotes": "Catalog lists this for vehicles without the M Aerodynamics package (S715A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Wheel arch trim, front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5862&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-reinforcement-cover",
+    "category": "Body / Wheel Arch",
+    "name": "Front Left Reinforcement Cover",
+    "oemNumber": "51717159189",
+    "aliases": [
+      "small plastic behind driver wheel",
+      "reinforcement cover",
+      "small wheel well cover",
+      "driver reinforcement trim"
+    ],
+    "symptoms": [
+      "small plastic panel missing near wheel",
+      "small cover hanging in wheel well"
+    ],
+    "location": "Driver-side front wheel-arch reinforcement area",
+    "side": "Driver",
+    "description": "Small plastic cover mounted around the front wheel-arch reinforcement area.",
+    "fitmentNotes": "Catalog lists this for vehicles without the M Aerodynamics package (S715A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Wheel arch trim, front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5862&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "underhood-shield",
+    "category": "Body / Underbody",
+    "name": "Underhood Shield",
+    "oemNumber": "51757129341",
+    "aliases": [
+      "engine splash shield",
+      "undertray",
+      "belly pan",
+      "plastic under engine",
+      "engine under cover",
+      "bottom engine cover"
+    ],
+    "symptoms": [
+      "plastic hanging under engine",
+      "undertray dragging",
+      "bottom shield missing",
+      "plastic scraping road"
+    ],
+    "location": "Under the front of the engine compartment",
+    "side": "Either",
+    "description": "Large lower engine-compartment shield that protects the underside from road splash and debris.",
+    "fitmentNotes": "Verified for the supported catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Engine compartment / underfloor panel",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5860&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-window-regulator",
+    "category": "Door / Window",
+    "name": "Front Left Window Regulator",
+    "oemNumber": "51337140587",
+    "aliases": [
+      "driver window regulator",
+      "driver window lift",
+      "window track",
+      "window mechanism",
+      "window lifter"
+    ],
+    "symptoms": [
+      "driver window falls into door",
+      "driver window crooked",
+      "window grinds",
+      "window cable broke",
+      "window goes down but not up"
+    ],
+    "location": "Inside the driver-side front door",
+    "side": "Driver",
+    "description": "Electric window-lifting mechanism that moves the driver-side front window glass up and down.",
+    "fitmentNotes": "Regulator/lifter only. The electric drive motor is a separate catalog part.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5730&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-window-regulator",
+    "category": "Door / Window",
+    "name": "Front Right Window Regulator",
+    "oemNumber": "51337140588",
+    "aliases": [
+      "passenger window regulator",
+      "passenger window lift",
+      "window track",
+      "window mechanism",
+      "window lifter"
+    ],
+    "symptoms": [
+      "passenger window falls into door",
+      "passenger window crooked",
+      "window grinds",
+      "window cable broke",
+      "window goes down but not up"
+    ],
+    "location": "Inside the passenger-side front door",
+    "side": "Passenger",
+    "description": "Electric window-lifting mechanism that moves the passenger-side front window glass up and down.",
+    "fitmentNotes": "Regulator/lifter only. The electric drive motor is a separate catalog part.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5730&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-window-motor",
+    "category": "Door / Electrical",
+    "name": "Front Left Window Lifter Drive",
+    "oemNumber": "67626927027",
+    "aliases": [
+      "driver window motor",
+      "power window motor",
+      "window lifter motor",
+      "window drive"
+    ],
+    "symptoms": [
+      "driver window does not move",
+      "window motor clicks",
+      "window moves slowly",
+      "no power window movement"
+    ],
+    "location": "Inside the driver-side front door, attached to the window regulator",
+    "side": "Driver",
+    "description": "Electric drive motor for the front-left window-lifting mechanism.",
+    "fitmentNotes": "Verify the regulator is not the failed component before replacing the drive motor.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5730&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-window-motor",
+    "category": "Door / Electrical",
+    "name": "Front Right Window Lifter Drive",
+    "oemNumber": "67626927028",
+    "aliases": [
+      "passenger window motor",
+      "power window motor",
+      "window lifter motor",
+      "window drive"
+    ],
+    "symptoms": [
+      "passenger window does not move",
+      "window motor clicks",
+      "window moves slowly",
+      "no power window movement"
+    ],
+    "location": "Inside the passenger-side front door, attached to the window regulator",
+    "side": "Passenger",
+    "description": "Electric drive motor for the front-right window-lifting mechanism.",
+    "fitmentNotes": "Verify the regulator is not the failed component before replacing the drive motor.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism front",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5730&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "coolant-expansion-tank",
+    "category": "Cooling",
+    "name": "Coolant Expansion Tank",
+    "oemNumber": "17137640514",
+    "aliases": [
+      "coolant tank",
+      "coolant reservoir",
+      "overflow tank",
+      "expansion reservoir",
+      "plastic coolant bottle"
+    ],
+    "symptoms": [
+      "cracked coolant tank",
+      "coolant leaking from reservoir",
+      "low coolant warning",
+      "coolant smell near tank"
+    ],
+    "location": "Engine bay coolant reservoir area",
+    "side": "Passenger",
+    "description": "Plastic coolant reservoir used for expansion volume, filling, and coolant-level monitoring.",
+    "fitmentNotes": "Verified for the supported 2011 E90 LCI 328i catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Expansion tank",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=17_0322&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "coolant-expansion-tank-cap",
+    "category": "Cooling",
+    "name": "Coolant Expansion Tank Cap",
+    "oemNumber": "17117639020",
+    "aliases": [
+      "coolant cap",
+      "reservoir cap",
+      "expansion tank cap",
+      "radiator reservoir cap"
+    ],
+    "symptoms": [
+      "coolant cap leaking",
+      "coolant around reservoir cap",
+      "cap will not seal"
+    ],
+    "location": "On top of the coolant expansion tank",
+    "side": "Passenger",
+    "description": "Pressure cap for the coolant expansion tank.",
+    "fitmentNotes": "Verified for the supported catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Expansion tank",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=17_0322&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-brake-rotor",
+    "category": "Brakes",
+    "name": "Front Brake Disc / Rotor",
+    "oemNumber": "34118848418",
+    "previousOemNumbers": [
+      "34116855006"
+    ],
+    "aliases": [
+      "front rotor",
+      "brake rotor",
+      "brake disc",
+      "front brake disc",
+      "metal disc behind wheel"
+    ],
+    "symptoms": [
+      "steering wheel shakes when braking",
+      "brake pulsation",
+      "scored rotor",
+      "front brake vibration"
+    ],
+    "location": "Front wheel hub behind each front wheel",
+    "side": "Either",
+    "description": "312×24 mm ventilated front brake disc clamped by the front brake pads.",
+    "fitmentNotes": "RealOEM lists 34116855006 through 07/2021 and 34118848418 as the later catalog number for the same 312×24 front disc application.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front brake / brake disc",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1475&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-brake-pad-set",
+    "category": "Brakes",
+    "name": "Front Brake Pad Repair Kit",
+    "oemNumber": "34116790759",
+    "aliases": [
+      "front brake pads",
+      "front pads",
+      "brake pad set",
+      "front brake lining"
+    ],
+    "symptoms": [
+      "brake squeal",
+      "brake grinding",
+      "thin front pads",
+      "front brake warning"
+    ],
+    "location": "Inside the two front brake calipers",
+    "side": "Either",
+    "description": "Front axle brake-pad set/repair kit for the supported 328i brake application.",
+    "fitmentNotes": "Catalog notes also call for the brake-pad wear sensor and brake-pad paste as required companion items.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front brake pad wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_2249&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-brake-pad-wear-sensor",
+    "category": "Brakes / Electrical",
+    "name": "Front Brake Pad Wear Sensor",
+    "oemNumber": "34356792560",
+    "aliases": [
+      "front brake sensor",
+      "pad sensor",
+      "brake wear wire",
+      "brake warning sensor"
+    ],
+    "symptoms": [
+      "brake pad warning",
+      "brake service light",
+      "sensor wire damaged",
+      "brake warning stays on"
+    ],
+    "location": "Front brake assembly",
+    "side": "Either",
+    "description": "Electrical sensor used by the vehicle to detect worn front brake pads.",
+    "fitmentNotes": "Verified for the supported catalog profile from 03/2010 onward.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front brake pad wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_2249&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-brake-dust-shield",
+    "category": "Brakes",
+    "name": "Front Left Brake Protection Plate",
+    "oemNumber": "34106762851",
+    "aliases": [
+      "left brake dust shield",
+      "driver brake backing plate",
+      "rotor shield",
+      "brake protection plate"
+    ],
+    "symptoms": [
+      "metal scraping behind rotor",
+      "rusted brake shield",
+      "bent plate touching rotor"
+    ],
+    "location": "Behind the driver-side front brake rotor",
+    "side": "Driver",
+    "description": "Metal protection/dust plate mounted behind the front brake rotor.",
+    "fitmentNotes": "Verified for the supported catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front brake / brake disc",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1475&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-brake-dust-shield",
+    "category": "Brakes",
+    "name": "Front Right Brake Protection Plate",
+    "oemNumber": "34106762852",
+    "aliases": [
+      "right brake dust shield",
+      "passenger brake backing plate",
+      "rotor shield",
+      "brake protection plate"
+    ],
+    "symptoms": [
+      "metal scraping behind rotor",
+      "rusted brake shield",
+      "bent plate touching rotor"
+    ],
+    "location": "Behind the passenger-side front brake rotor",
+    "side": "Passenger",
+    "description": "Metal protection/dust plate mounted behind the front brake rotor.",
+    "fitmentNotes": "Verified for the supported catalog profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front brake / brake disc",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1475&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "ignition-coil",
+    "category": "Engine Electrical",
+    "name": "Ignition Coil",
+    "oemNumber": "12135A06753",
+    "previousOemNumbers": [
+      "12138657273"
+    ],
+    "aliases": [
+      "coil pack",
+      "engine coil",
+      "spark coil",
+      "ignition pack"
+    ],
+    "symptoms": [
+      "engine misfire",
+      "rough idle",
+      "flashing check engine light",
+      "cylinder misfire"
+    ],
+    "location": "Top of engine, one coil per cylinder",
+    "side": "Either",
+    "description": "Ignition coil that supplies high voltage to one spark plug.",
+    "fitmentNotes": "RealOEM lists 12138657273 as ended and 12135A06753 as the current catalog entry for this profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Ignition coil / spark plug",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=12_1417&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "spark-plug",
+    "category": "Engine Electrical",
+    "name": "Spark Plug, High Power",
+    "oemNumber": "12120037663",
+    "aliases": [
+      "spark plug",
+      "engine plug",
+      "ignition plug"
+    ],
+    "symptoms": [
+      "misfire",
+      "rough idle",
+      "hard start",
+      "old spark plugs"
+    ],
+    "location": "Cylinder head, under each ignition coil",
+    "side": "Either",
+    "description": "NGK LZFR6AP11GS spark plug used in the supported catalog profile.",
+    "fitmentNotes": "Catalog shows quantity 6 for the inline-six engine.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Ignition coil / spark plug",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=12_1417&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "starter-motor",
+    "category": "Engine Electrical",
+    "name": "Starter Motor",
+    "oemNumber": "12417616500",
+    "aliases": [
+      "starter",
+      "engine starter",
+      "cranking motor"
+    ],
+    "symptoms": [
+      "single click no crank",
+      "engine will not crank",
+      "starter spins slowly",
+      "no start but battery good"
+    ],
+    "location": "Engine/transmission bellhousing area",
+    "side": "Either",
+    "description": "Electric starter motor used to crank the engine.",
+    "fitmentNotes": "Catalog lists the Valeo starter motor from 03/2011 onward for this profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Starter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=12_1161&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "alternator",
+    "category": "Engine Electrical",
+    "name": "180A Remanufactured Alternator",
+    "oemNumber": "12317555926",
+    "aliases": [
+      "alternator",
+      "generator",
+      "charging unit",
+      "battery charger on engine"
+    ],
+    "symptoms": [
+      "battery light on",
+      "battery not charging",
+      "car dies after jump",
+      "charging voltage low"
+    ],
+    "location": "Front of engine, driven by the accessory belt",
+    "side": "Either",
+    "description": "180-amp alternator catalog entry for the supported E90 profile.",
+    "fitmentNotes": "RealOEM explicitly says to determine the installed alternator independently or via diagnosis; this catalog number is marked ended. Treat this result as a candidate that needs physical/VIN confirmation.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Alternator",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=12_1198&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "windshield-washer-reservoir",
+    "category": "Wash / Wipe",
+    "name": "Windshield Cleaning Container",
+    "oemNumber": "61667238669",
+    "aliases": [
+      "washer tank",
+      "washer reservoir",
+      "windshield washer bottle",
+      "windshield fluid tank",
+      "washer fluid container"
+    ],
+    "symptoms": [
+      "washer fluid leaking",
+      "washer tank cracked",
+      "reservoir empty immediately"
+    ],
+    "location": "Front body area behind the fender/bumper region",
+    "side": "Passenger",
+    "description": "Plastic reservoir that stores windshield washer fluid.",
+    "fitmentNotes": "This is the standard reservoir entry. Vehicles with the headlight-cleaning option use a different container number (61677238668).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Windshield/headlight washer reservoir",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_1879&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "windshield-washer-pump",
+    "category": "Wash / Wipe",
+    "name": "Windshield Washer Pump",
+    "oemNumber": "67127302589",
+    "aliases": [
+      "washer pump",
+      "windshield fluid pump",
+      "wiper fluid pump",
+      "screen wash pump"
+    ],
+    "symptoms": [
+      "no washer fluid spray",
+      "pump silent",
+      "washer reservoir full but no spray"
+    ],
+    "location": "Mounted at the windshield-washer fluid container",
+    "side": "Passenger",
+    "description": "Electric pump that sends washer fluid to the windshield nozzles.",
+    "fitmentNotes": "Catalog identifies this pump as suitable for the front wiper/windshield system.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Windshield/headlight washer reservoir",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_1879&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "left-mirror-cover",
+    "category": "Body / Mirror",
+    "name": "Left Outside Mirror Cover (Primed)",
+    "oemNumber": "51167205291",
+    "aliases": [
+      "driver mirror cap",
+      "left mirror cover",
+      "outside mirror cover",
+      "mirror shell",
+      "mirror cap"
+    ],
+    "symptoms": [
+      "mirror cap cracked",
+      "mirror cover missing",
+      "plastic shell on mirror broken"
+    ],
+    "location": "Outer shell of the driver-side exterior mirror",
+    "side": "Driver",
+    "description": "Primed outer mirror cap/cover for the left exterior mirror.",
+    "fitmentNotes": "Verified as the primed left mirror covering entry in the supported catalog profile; mirror assemblies themselves vary with option codes.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Outside mirror",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_6946&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "right-mirror-cover",
+    "category": "Body / Mirror",
+    "name": "Right Outside Mirror Cover (Primed)",
+    "oemNumber": "51167205292",
+    "aliases": [
+      "passenger mirror cap",
+      "right mirror cover",
+      "outside mirror cover",
+      "mirror shell",
+      "mirror cap"
+    ],
+    "symptoms": [
+      "mirror cap cracked",
+      "mirror cover missing",
+      "plastic shell on mirror broken"
+    ],
+    "location": "Outer shell of the passenger-side exterior mirror",
+    "side": "Passenger",
+    "description": "Primed outer mirror cap/cover for the right exterior mirror.",
+    "fitmentNotes": "Verified as the primed right mirror covering entry in the supported catalog profile; mirror assemblies themselves vary with option codes.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Outside mirror",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_6946&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "electric-coolant-pump",
+    "category": "Engine / Cooling",
+    "name": "Electric Coolant Pump",
+    "oemNumber": "11517586925",
+    "aliases": [
+      "electric water pump",
+      "water pump",
+      "coolant pump",
+      "engine water pump",
+      "electric pump"
+    ],
+    "symptoms": [
+      "engine overheating",
+      "water pump failure",
+      "coolant not circulating",
+      "electric water pump fault",
+      "cooling fan runs high"
+    ],
+    "location": "Lower front/side of the engine cooling system",
+    "side": "Either",
+    "description": "Electric coolant pump that circulates engine coolant through the cooling system.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Waterpump - Thermostat",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3754&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "engine-thermostat",
+    "category": "Engine / Cooling",
+    "name": "Engine Thermostat",
+    "oemNumber": "11537549476",
+    "aliases": [
+      "thermostat",
+      "coolant thermostat",
+      "engine coolant thermostat",
+      "temperature valve"
+    ],
+    "symptoms": [
+      "engine runs hot",
+      "engine runs too cool",
+      "thermostat stuck open",
+      "thermostat stuck closed",
+      "coolant temperature fault"
+    ],
+    "location": "Cooling system near the electric coolant pump",
+    "side": "Either",
+    "description": "Thermostat that regulates coolant flow based on engine temperature.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Waterpump - Thermostat",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3754&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-filter-with-plastic-cover",
+    "category": "Engine / Lubrication",
+    "name": "Oil Filter with Plastic Cover",
+    "oemNumber": "11428642283",
+    "aliases": [
+      "oil filter housing",
+      "oil filter unit",
+      "oil filter assembly",
+      "filter housing with cap"
+    ],
+    "symptoms": [
+      "oil leak near filter",
+      "cracked oil filter housing",
+      "oil around filter cap",
+      "damaged filter housing"
+    ],
+    "location": "Upper engine oil-filter area",
+    "side": "Either",
+    "description": "BMW catalog oil-filter assembly listed with a plastic cover for the supported engine.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-filter-cover",
+    "category": "Engine / Lubrication",
+    "name": "Oil Filter Cover",
+    "oemNumber": "11427525334",
+    "aliases": [
+      "oil filter cap",
+      "filter cover",
+      "oil filter housing cap",
+      "oil cap housing"
+    ],
+    "symptoms": [
+      "oil leaking around filter cap",
+      "cracked oil filter cap",
+      "damaged filter cover"
+    ],
+    "location": "Top of the engine oil-filter assembly",
+    "side": "Either",
+    "description": "Plastic cover/cap for the engine oil-filter assembly.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-filter-element-set",
+    "category": "Engine / Lubrication",
+    "name": "Oil Filter Element Set",
+    "oemNumber": "11427953129",
+    "aliases": [
+      "engine oil filter",
+      "oil filter cartridge",
+      "filter element",
+      "oil filter insert"
+    ],
+    "symptoms": [
+      "oil service due",
+      "dirty engine oil filter",
+      "routine oil change"
+    ],
+    "location": "Inside the engine oil-filter housing",
+    "side": "Either",
+    "description": "Replaceable engine oil-filter element set used during oil service.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-filter-gasket",
+    "category": "Engine / Lubrication",
+    "name": "Oil Filter Gasket",
+    "oemNumber": "11428637821",
+    "aliases": [
+      "oil filter housing gasket",
+      "filter gasket",
+      "oil filter seal"
+    ],
+    "symptoms": [
+      "oil leak around oil filter",
+      "oil seepage near filter housing",
+      "gasket leaking"
+    ],
+    "location": "Oil-filter assembly sealing surface",
+    "side": "Either",
+    "description": "Gasket used to seal part of the engine oil-filter assembly.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-pressure-switch",
+    "category": "Engine / Sensors",
+    "name": "Oil Pressure Switch",
+    "oemNumber": "12618611273",
+    "aliases": [
+      "oil pressure sensor",
+      "oil pressure switch",
+      "low oil pressure switch",
+      "oil warning sensor"
+    ],
+    "symptoms": [
+      "oil pressure warning light",
+      "oil pressure warning",
+      "oil light on",
+      "faulty oil pressure signal"
+    ],
+    "location": "Engine oil-filter/lubrication system",
+    "side": "Either",
+    "description": "Pressure switch used by the vehicle to monitor engine oil pressure.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "oil-filter-o-ring",
+    "category": "Engine / Lubrication",
+    "name": "Oil Filter O-Ring",
+    "oemNumber": "11428683168",
+    "aliases": [
+      "oil filter o ring",
+      "filter seal ring",
+      "oil filter housing o-ring",
+      "large filter o-ring"
+    ],
+    "symptoms": [
+      "oil leak at filter",
+      "oil seepage around oil filter",
+      "damaged filter seal"
+    ],
+    "location": "Oil-filter assembly",
+    "side": "Either",
+    "description": "80 x 3.5 mm O-ring used in the oil-filter assembly.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Lubrication system-Oil filter",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3867&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "mechanical-belt-tensioner",
+    "category": "Engine / Belt Drive",
+    "name": "Mechanical Belt Tensioner",
+    "oemNumber": "11288624196",
+    "aliases": [
+      "serpentine belt tensioner",
+      "accessory belt tensioner",
+      "drive belt tensioner",
+      "belt tensioner"
+    ],
+    "symptoms": [
+      "belt squeal",
+      "belt slipping",
+      "tensioner rattling",
+      "loose serpentine belt",
+      "belt jumps off"
+    ],
+    "location": "Front of the engine accessory-belt drive",
+    "side": "Either",
+    "description": "Mechanical tensioner that maintains proper tension on the accessory drive belt.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Belt drive-generator/AC/power steering",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3740&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "ribbed-v-belt",
+    "category": "Engine / Belt Drive",
+    "name": "Ribbed V-Belt",
+    "oemNumber": "11287628650",
+    "aliases": [
+      "serpentine belt",
+      "accessory belt",
+      "drive belt",
+      "ribbed belt",
+      "alternator belt"
+    ],
+    "symptoms": [
+      "belt cracked",
+      "belt squeal",
+      "shredded belt",
+      "accessories stop turning",
+      "charging problem with broken belt"
+    ],
+    "location": "Front of the engine around the accessory pulleys",
+    "side": "Either",
+    "description": "6PK 1990 ribbed accessory drive belt.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Belt drive-generator/AC/power steering",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3740&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "belt-deflection-pulley",
+    "category": "Engine / Belt Drive",
+    "name": "Accessory Belt Deflection Pulley",
+    "oemNumber": "11287535860",
+    "aliases": [
+      "idler pulley",
+      "belt pulley",
+      "serpentine idler",
+      "deflection pulley",
+      "guide pulley"
+    ],
+    "symptoms": [
+      "pulley noise",
+      "belt squeal",
+      "pulley bearing noise",
+      "belt wobble",
+      "grinding from belt drive"
+    ],
+    "location": "Front of the engine accessory-belt drive",
+    "side": "Either",
+    "description": "Deflection/idler pulley that guides the accessory drive belt.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Belt drive-generator/AC/power steering",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3740&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-axle-support",
+    "category": "Suspension / Front Axle",
+    "name": "Front Axle Support",
+    "oemNumber": "31116785639",
+    "aliases": [
+      "front subframe",
+      "front axle carrier",
+      "engine cradle",
+      "front suspension subframe"
+    ],
+    "symptoms": [
+      "damaged front subframe",
+      "bent front suspension support",
+      "front axle support damaged"
+    ],
+    "location": "Under the front of the vehicle supporting front suspension components",
+    "side": "Either",
+    "description": "Main structural front axle/subframe support.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-axle-support-rod",
+    "category": "Suspension / Front Axle",
+    "name": "Front Axle Support Rod",
+    "oemNumber": "31116768714",
+    "aliases": [
+      "front support rod",
+      "subframe rod",
+      "axle support brace",
+      "front suspension brace"
+    ],
+    "symptoms": [
+      "front support damage",
+      "bent front brace",
+      "suspension support rod damaged"
+    ],
+    "location": "Front axle support area",
+    "side": "Either",
+    "description": "Rod/bracing component used with the front axle support.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-radius-rod-repair-set",
+    "category": "Suspension / Front Axle",
+    "name": "Front Left Radius Rod Repair Set",
+    "oemNumber": "31122405861",
+    "aliases": [
+      "left tension strut",
+      "driver tension arm",
+      "driver radius rod",
+      "left thrust arm",
+      "front control arm kit"
+    ],
+    "symptoms": [
+      "front clunk",
+      "vibration braking",
+      "loose front suspension",
+      "worn tension strut bushing"
+    ],
+    "location": "Driver-side front suspension",
+    "side": "Driver",
+    "description": "Value Parts repair set for the left front radius/tension rod.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-radius-rod-repair-set",
+    "category": "Suspension / Front Axle",
+    "name": "Front Right Radius Rod Repair Set",
+    "oemNumber": "31122405862",
+    "aliases": [
+      "right tension strut",
+      "passenger tension arm",
+      "passenger radius rod",
+      "right thrust arm",
+      "front control arm kit"
+    ],
+    "symptoms": [
+      "front clunk",
+      "vibration braking",
+      "loose front suspension",
+      "worn tension strut bushing"
+    ],
+    "location": "Passenger-side front suspension",
+    "side": "Passenger",
+    "description": "Value Parts repair set for the right front radius/tension rod.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-hydrobearing",
+    "category": "Suspension / Front Axle",
+    "name": "Front Hydrobearing",
+    "oemNumber": "31126763719",
+    "aliases": [
+      "tension strut bushing",
+      "thrust arm bushing",
+      "control arm bushing",
+      "hydro bushing",
+      "front suspension bushing"
+    ],
+    "symptoms": [
+      "front end clunk",
+      "steering vibration under braking",
+      "cracked control arm bushing",
+      "loose front suspension"
+    ],
+    "location": "Front tension/radius rod mounting area",
+    "side": "Either",
+    "description": "Hydraulic rubber bushing used in the front suspension radius/tension rod system.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-wishbone-repair-kit",
+    "category": "Suspension / Front Axle",
+    "name": "Front Left Wishbone Repair Kit",
+    "oemNumber": "31122405859",
+    "aliases": [
+      "left wishbone",
+      "driver control arm",
+      "left lower control arm",
+      "front driver control arm kit"
+    ],
+    "symptoms": [
+      "front clunk",
+      "loose steering",
+      "uneven tire wear",
+      "worn ball joint",
+      "control arm play"
+    ],
+    "location": "Driver-side front suspension",
+    "side": "Driver",
+    "description": "Value Parts repair kit for the left front wishbone/control arm.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-wishbone-repair-kit",
+    "category": "Suspension / Front Axle",
+    "name": "Front Right Wishbone Repair Kit",
+    "oemNumber": "31122405860",
+    "aliases": [
+      "right wishbone",
+      "passenger control arm",
+      "right lower control arm",
+      "front passenger control arm kit"
+    ],
+    "symptoms": [
+      "front clunk",
+      "loose steering",
+      "uneven tire wear",
+      "worn ball joint",
+      "control arm play"
+    ],
+    "location": "Passenger-side front suspension",
+    "side": "Passenger",
+    "description": "Value Parts repair kit for the right front wishbone/control arm.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front axle support, wishbone/tension strut",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0715&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-spring-strut-standard",
+    "category": "Suspension / Front Strut",
+    "name": "Front Left Spring Strut (Standard Suspension)",
+    "oemNumber": "31316796155",
+    "aliases": [
+      "left front strut",
+      "driver front strut",
+      "front shock",
+      "left shock absorber",
+      "driver shock"
+    ],
+    "symptoms": [
+      "front bouncing",
+      "leaking strut",
+      "clunk over bumps",
+      "poor ride",
+      "worn front shock"
+    ],
+    "location": "Driver-side front suspension",
+    "side": "Driver",
+    "description": "Sachs front-left spring strut for the non-M-sport suspension application.",
+    "fitmentNotes": "Use only when the vehicle is not equipped with M Sports suspension (S704A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-spring-strut-standard",
+    "category": "Suspension / Front Strut",
+    "name": "Front Right Spring Strut (Standard Suspension)",
+    "oemNumber": "31316796156",
+    "aliases": [
+      "right front strut",
+      "passenger front strut",
+      "front shock",
+      "right shock absorber",
+      "passenger shock"
+    ],
+    "symptoms": [
+      "front bouncing",
+      "leaking strut",
+      "clunk over bumps",
+      "poor ride",
+      "worn front shock"
+    ],
+    "location": "Passenger-side front suspension",
+    "side": "Passenger",
+    "description": "Sachs front-right spring strut for the non-M-sport suspension application.",
+    "fitmentNotes": "Use only when the vehicle is not equipped with M Sports suspension (S704A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-wheel-carrier",
+    "category": "Suspension / Front Hub",
+    "name": "Front Left Wheel Carrier",
+    "oemNumber": "31216793923",
+    "aliases": [
+      "left steering knuckle",
+      "driver steering knuckle",
+      "front hub carrier",
+      "spindle",
+      "wheel carrier"
+    ],
+    "symptoms": [
+      "bent steering knuckle",
+      "damaged wheel carrier",
+      "front hub mounting damage"
+    ],
+    "location": "Driver-side front wheel/hub assembly",
+    "side": "Driver",
+    "description": "Left front wheel carrier/steering knuckle that supports the hub and suspension connections.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-wheel-carrier",
+    "category": "Suspension / Front Hub",
+    "name": "Front Right Wheel Carrier",
+    "oemNumber": "31216793924",
+    "aliases": [
+      "right steering knuckle",
+      "passenger steering knuckle",
+      "front hub carrier",
+      "spindle",
+      "wheel carrier"
+    ],
+    "symptoms": [
+      "bent steering knuckle",
+      "damaged wheel carrier",
+      "front hub mounting damage"
+    ],
+    "location": "Passenger-side front wheel/hub assembly",
+    "side": "Passenger",
+    "description": "Right front wheel carrier/steering knuckle that supports the hub and suspension connections.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-wheel-hub-bearing",
+    "category": "Suspension / Front Hub",
+    "name": "Front Wheel Hub with Bearing",
+    "oemNumber": "31216765157",
+    "aliases": [
+      "front wheel bearing",
+      "front hub",
+      "wheel hub assembly",
+      "hub bearing",
+      "front bearing"
+    ],
+    "symptoms": [
+      "wheel bearing hum",
+      "grinding with speed",
+      "front wheel play",
+      "roaring noise from front wheel"
+    ],
+    "location": "Center of either front wheel/hub assembly",
+    "side": "Either",
+    "description": "Front wheel hub assembly with integrated bearing.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-abs-wheel-speed-sensor",
+    "category": "Brakes / ABS",
+    "name": "Front DSC Pulse Generator",
+    "oemNumber": "34526870075",
+    "aliases": [
+      "front abs sensor",
+      "wheel speed sensor",
+      "front wheel speed sensor",
+      "abs speed sensor",
+      "dsc sensor"
+    ],
+    "symptoms": [
+      "abs light",
+      "traction control light",
+      "dsc warning",
+      "wheel speed fault",
+      "abs sensor fault"
+    ],
+    "location": "Front wheel hub/carrier area",
+    "side": "Either",
+    "description": "Front wheel-speed/DSC pulse generator used by the ABS/DSC system.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front spring strut/carrier/wheel bearing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=31_0694&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "steering-rack-bellows-kit",
+    "category": "Steering",
+    "name": "Steering Rack Bellows Repair Kit",
+    "oemNumber": "32106765234",
+    "aliases": [
+      "steering rack boot",
+      "tie rod boot",
+      "rack bellows",
+      "steering boot",
+      "accordion boot"
+    ],
+    "symptoms": [
+      "torn steering boot",
+      "grease around tie rod",
+      "rack boot cracked",
+      "dirt entering steering rack"
+    ],
+    "location": "At the steering rack ends around the inner tie rods",
+    "side": "Either",
+    "description": "ZF bellows/boot repair kit that protects the steering rack and inner tie-rod area.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Steering linkage/tie rods",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=32_1510&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "left-tie-rod",
+    "category": "Steering",
+    "name": "Left Tie Rod",
+    "oemNumber": "32106765235",
+    "aliases": [
+      "driver tie rod",
+      "left steering rod",
+      "left inner outer tie rod",
+      "steering linkage left"
+    ],
+    "symptoms": [
+      "steering play",
+      "uneven tire wear",
+      "loose steering",
+      "clunk turning",
+      "alignment will not hold"
+    ],
+    "location": "Driver-side steering linkage",
+    "side": "Driver",
+    "description": "ZF left tie rod in the steering linkage.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Steering linkage/tie rods",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=32_1510&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "right-tie-rod",
+    "category": "Steering",
+    "name": "Right Tie Rod",
+    "oemNumber": "32106765236",
+    "aliases": [
+      "passenger tie rod",
+      "right steering rod",
+      "right inner outer tie rod",
+      "steering linkage right"
+    ],
+    "symptoms": [
+      "steering play",
+      "uneven tire wear",
+      "loose steering",
+      "clunk turning",
+      "alignment will not hold"
+    ],
+    "location": "Passenger-side steering linkage",
+    "side": "Passenger",
+    "description": "ZF right tie rod in the steering linkage.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Steering linkage/tie rods",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=32_1510&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "left-steering-ball-joint",
+    "category": "Steering",
+    "name": "Left Steering Ball Joint",
+    "oemNumber": "32106767781",
+    "aliases": [
+      "left tie rod end",
+      "driver tie rod end",
+      "steering ball joint",
+      "outer tie rod end left"
+    ],
+    "symptoms": [
+      "steering looseness",
+      "clunk from driver front",
+      "uneven tire wear",
+      "play at tie rod end"
+    ],
+    "location": "Driver-side outer steering linkage",
+    "side": "Driver",
+    "description": "Left steering linkage ball joint/tie-rod end.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Steering linkage/tie rods",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=32_1510&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "right-steering-ball-joint",
+    "category": "Steering",
+    "name": "Right Steering Ball Joint",
+    "oemNumber": "32106767782",
+    "aliases": [
+      "right tie rod end",
+      "passenger tie rod end",
+      "steering ball joint",
+      "outer tie rod end right"
+    ],
+    "symptoms": [
+      "steering looseness",
+      "clunk from passenger front",
+      "uneven tire wear",
+      "play at tie rod end"
+    ],
+    "location": "Passenger-side outer steering linkage",
+    "side": "Passenger",
+    "description": "Right steering linkage ball joint/tie-rod end.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Steering linkage/tie rods",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=32_1510&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-wheel-carrier",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Left Wheel Carrier",
+    "oemNumber": "33326783653",
+    "aliases": [
+      "left rear wheel carrier",
+      "driver rear knuckle",
+      "rear hub carrier left",
+      "rear spindle"
+    ],
+    "symptoms": [
+      "bent rear knuckle",
+      "damaged rear wheel carrier",
+      "rear hub mounting damage"
+    ],
+    "location": "Driver-side rear wheel suspension",
+    "side": "Driver",
+    "description": "Left rear wheel carrier/knuckle for the rear suspension.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-wheel-carrier",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Right Wheel Carrier",
+    "oemNumber": "33326783654",
+    "aliases": [
+      "right rear wheel carrier",
+      "passenger rear knuckle",
+      "rear hub carrier right",
+      "rear spindle"
+    ],
+    "symptoms": [
+      "bent rear knuckle",
+      "damaged rear wheel carrier",
+      "rear hub mounting damage"
+    ],
+    "location": "Passenger-side rear wheel suspension",
+    "side": "Passenger",
+    "description": "Right rear wheel carrier/knuckle for the rear suspension.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-wheel-carrier-rubber-mount",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Wheel Carrier Rubber Mounting",
+    "oemNumber": "33326763092",
+    "aliases": [
+      "rear wheel carrier bushing",
+      "rear knuckle bushing",
+      "rear suspension rubber mount",
+      "rear bushing"
+    ],
+    "symptoms": [
+      "rear suspension clunk",
+      "rear bushing cracked",
+      "loose rear suspension",
+      "rear wheel movement"
+    ],
+    "location": "Rear wheel carrier/suspension mounting area",
+    "side": "Either",
+    "description": "Rubber mounting/bushing used in the rear wheel suspension assembly.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-suspension-ball-joint",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Suspension Ball Joint",
+    "oemNumber": "33326792553",
+    "aliases": [
+      "rear ball joint",
+      "rear wheel carrier ball joint",
+      "rear suspension joint",
+      "rear knuckle ball joint"
+    ],
+    "symptoms": [
+      "rear clunk",
+      "rear wheel play",
+      "uneven rear tire wear",
+      "loose rear suspension"
+    ],
+    "location": "Rear wheel carrier/suspension assembly",
+    "side": "Either",
+    "description": "Ball joint used in the rear wheel suspension assembly.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-roll-over-strut",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Roll-Over Strut with Rubber Mount",
+    "oemNumber": "33326772899",
+    "aliases": [
+      "rear link",
+      "rear suspension link",
+      "roll over strut",
+      "rear control link",
+      "rear arm"
+    ],
+    "symptoms": [
+      "rear suspension clunk",
+      "loose rear suspension",
+      "worn rear link",
+      "uneven tire wear"
+    ],
+    "location": "Rear multi-link suspension",
+    "side": "Either",
+    "description": "Rear suspension roll-over strut/link supplied with its rubber mount.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-shock-rubber-mount",
+    "category": "Suspension / Rear Shock",
+    "name": "Rear Shock Absorber Rubber Mount",
+    "oemNumber": "33526768544",
+    "aliases": [
+      "rear shock bushing",
+      "rear shock mount rubber",
+      "rear damper bushing",
+      "shock absorber mount"
+    ],
+    "symptoms": [
+      "rear shock clunk",
+      "worn shock bushing",
+      "rubber mount cracked",
+      "knocking from rear shock"
+    ],
+    "location": "Rear shock absorber mounting area",
+    "side": "Either",
+    "description": "Rubber mount/bushing used with the rear shock absorber.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-trailing-arm-repair-kit",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Trailing Arm Repair Kit",
+    "oemNumber": "33322406291",
+    "aliases": [
+      "rear trailing arm",
+      "trailing arm kit",
+      "rear suspension arm",
+      "rear arm kit"
+    ],
+    "symptoms": [
+      "rear clunk",
+      "rear alignment problem",
+      "trailing arm worn",
+      "rear suspension play"
+    ],
+    "location": "Rear suspension trailing-arm position",
+    "side": "Either",
+    "description": "Value Parts repair kit for the rear trailing arm.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-track-control-arm-repair-kit",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Track Control Arm Repair Kit",
+    "oemNumber": "33322406290",
+    "aliases": [
+      "rear track arm",
+      "rear control arm",
+      "rear toe arm",
+      "track control arm kit"
+    ],
+    "symptoms": [
+      "rear tire wear",
+      "rear alignment issue",
+      "rear suspension clunk",
+      "loose rear control arm"
+    ],
+    "location": "Rear multi-link suspension",
+    "side": "Either",
+    "description": "Value Parts repair kit for the rear track control arm.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-wishbone-repair-kit",
+    "category": "Suspension / Rear Axle",
+    "name": "Rear Wishbone Repair Kit",
+    "oemNumber": "33322406292",
+    "aliases": [
+      "rear wishbone",
+      "rear control arm kit",
+      "rear lower arm",
+      "rear suspension wishbone"
+    ],
+    "symptoms": [
+      "rear suspension clunk",
+      "rear wheel alignment issue",
+      "worn rear arm",
+      "uneven tire wear"
+    ],
+    "location": "Rear multi-link suspension",
+    "side": "Either",
+    "description": "Value Parts repair kit for the rear wishbone/control arm.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear axle support/wheel suspension",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=33_1230&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-brake-caliper-housing",
+    "category": "Brakes / Rear",
+    "name": "Rear Left Brake Caliper Housing",
+    "oemNumber": "34216768697",
+    "aliases": [
+      "left rear caliper",
+      "driver rear brake caliper",
+      "rear caliper housing left",
+      "brake caliper"
+    ],
+    "symptoms": [
+      "rear brake dragging",
+      "seized rear caliper",
+      "brake fluid leak at caliper",
+      "uneven rear pad wear"
+    ],
+    "location": "Driver-side rear brake assembly",
+    "side": "Driver",
+    "description": "Left rear brake caliper housing.",
+    "fitmentNotes": "Not listed for the BMW Performance Parts brake setup.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-brake-caliper-housing",
+    "category": "Brakes / Rear",
+    "name": "Rear Right Brake Caliper Housing",
+    "oemNumber": "34216768698",
+    "aliases": [
+      "right rear caliper",
+      "passenger rear brake caliper",
+      "rear caliper housing right",
+      "brake caliper"
+    ],
+    "symptoms": [
+      "rear brake dragging",
+      "seized rear caliper",
+      "brake fluid leak at caliper",
+      "uneven rear pad wear"
+    ],
+    "location": "Passenger-side rear brake assembly",
+    "side": "Passenger",
+    "description": "Right rear brake caliper housing.",
+    "fitmentNotes": "Not listed for the BMW Performance Parts brake setup.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-brake-caliper-carrier",
+    "category": "Brakes / Rear",
+    "name": "Rear Brake Caliper Carrier",
+    "oemNumber": "34216768696",
+    "aliases": [
+      "rear caliper bracket",
+      "brake carrier",
+      "rear brake bracket",
+      "caliper mounting bracket"
+    ],
+    "symptoms": [
+      "damaged caliper bracket",
+      "seized caliper mounting",
+      "stripped caliper carrier",
+      "rear brake hardware damage"
+    ],
+    "location": "Rear brake assembly behind each rear wheel",
+    "side": "Either",
+    "description": "Carrier/bracket that mounts the rear brake caliper.",
+    "fitmentNotes": "Not listed for the BMW Performance Parts brake setup.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-caliper-guide-bush-kit",
+    "category": "Brakes / Rear",
+    "name": "Rear Brake Caliper Guide Bush Repair Kit",
+    "oemNumber": "34216869617",
+    "aliases": [
+      "rear caliper guide bush",
+      "caliper slide bushing kit",
+      "brake caliper guide kit",
+      "rear slider bushings"
+    ],
+    "symptoms": [
+      "caliper sticking",
+      "uneven rear pad wear",
+      "loose caliper",
+      "brake caliper guide worn"
+    ],
+    "location": "Rear brake caliper guide/slider area",
+    "side": "Either",
+    "description": "Repair kit for the rear brake caliper guide bushes.",
+    "fitmentNotes": "Not listed for the BMW Performance Parts brake setup.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-brake-caliper-repair-set",
+    "category": "Brakes / Rear",
+    "name": "Rear Brake Caliper Repair Set",
+    "oemNumber": "34116763995",
+    "aliases": [
+      "rear caliper rebuild kit",
+      "brake caliper repair kit",
+      "caliper seal kit",
+      "rear brake rebuild kit"
+    ],
+    "symptoms": [
+      "brake fluid leak at caliper",
+      "sticking rear caliper",
+      "torn caliper seal",
+      "rebuilding rear brake caliper"
+    ],
+    "location": "Rear brake caliper",
+    "side": "Either",
+    "description": "Repair set used to service the rear brake caliper.",
+    "fitmentNotes": "Not listed for the BMW Performance Parts brake setup.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-brake-pad-set",
+    "category": "Brakes / Rear",
+    "name": "Rear Brake Pad Repair Kit",
+    "oemNumber": "34216790761",
+    "aliases": [
+      "rear brake pads",
+      "rear pads",
+      "rear brake pad set",
+      "rear brake lining"
+    ],
+    "symptoms": [
+      "rear brake squeal",
+      "rear brake grinding",
+      "thin rear pads",
+      "rear brake service warning"
+    ],
+    "location": "Inside the rear brake calipers",
+    "side": "Either",
+    "description": "Rear axle brake-pad repair kit.",
+    "fitmentNotes": "Catalog lists this from 09/2009 onward and notes the wear sensor and brake-pad paste as companion service items.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-brake-pad-wear-sensor",
+    "category": "Brakes / Electrical",
+    "name": "Rear Brake Pad Wear Sensor",
+    "oemNumber": "34356792564",
+    "aliases": [
+      "rear brake sensor",
+      "rear pad sensor",
+      "brake wear wire rear",
+      "rear brake warning sensor"
+    ],
+    "symptoms": [
+      "rear brake pad warning",
+      "brake service light",
+      "rear wear sensor damaged",
+      "brake warning stays on"
+    ],
+    "location": "Rear brake assembly",
+    "side": "Either",
+    "description": "Electrical wear sensor used to monitor rear brake pad wear.",
+    "fitmentNotes": "Catalog lists this sensor from 03/2010 onward for the supported profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear brake / brake pad / wear sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=34_1476&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "left-fog-light",
+    "category": "Lighting / Front",
+    "name": "Left Fog Light",
+    "oemNumber": "63177199893",
+    "aliases": [
+      "driver fog light",
+      "left fog lamp",
+      "front left fog light",
+      "bumper fog light"
+    ],
+    "symptoms": [
+      "left fog light broken",
+      "driver fog lamp cracked",
+      "fog light housing damaged",
+      "left fog light out"
+    ],
+    "location": "Driver-side lower front bumper",
+    "side": "Driver",
+    "description": "Left front fog-light assembly.",
+    "fitmentNotes": "Catalog entry applies when the vehicle does not have the M Aerodynamics package (S715A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fog lights",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=63_1073&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "right-fog-light",
+    "category": "Lighting / Front",
+    "name": "Right Fog Light",
+    "oemNumber": "63177199894",
+    "aliases": [
+      "passenger fog light",
+      "right fog lamp",
+      "front right fog light",
+      "bumper fog light"
+    ],
+    "symptoms": [
+      "right fog light broken",
+      "passenger fog lamp cracked",
+      "fog light housing damaged",
+      "right fog light out"
+    ],
+    "location": "Passenger-side lower front bumper",
+    "side": "Passenger",
+    "description": "Right front fog-light assembly.",
+    "fitmentNotes": "Catalog entry applies when the vehicle does not have the M Aerodynamics package (S715A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fog lights",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=63_1073&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "fog-light-h8-bulb",
+    "category": "Lighting / Front",
+    "name": "Fog Light H8 Bulb",
+    "oemNumber": "07119906503",
+    "aliases": [
+      "fog bulb",
+      "H8 bulb",
+      "fog light bulb",
+      "front bumper light bulb",
+      "12v 35w bulb"
+    ],
+    "symptoms": [
+      "fog light out",
+      "fog lamp not working",
+      "burned fog bulb"
+    ],
+    "location": "Inside either front fog-light housing",
+    "side": "Either",
+    "description": "H8 12V 35W bulb used in the fog-light assembly.",
+    "fitmentNotes": "Catalog entry shown with the non-M-aerodynamics fog-light assembly (S715A=No).",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fog lights",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=63_1073&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-side-panel-light",
+    "category": "Lighting / Rear",
+    "name": "Rear Left Side-Panel Light",
+    "oemNumber": "63217289429",
+    "aliases": [
+      "left tail light",
+      "driver tail light",
+      "left rear lamp",
+      "outer left tail lamp",
+      "rear quarter tail light"
+    ],
+    "symptoms": [
+      "left tail light cracked",
+      "driver tail light broken",
+      "rear lamp water inside",
+      "left rear light out"
+    ],
+    "location": "Driver-side rear body side panel",
+    "side": "Driver",
+    "description": "Outer left rear light assembly mounted in the body side panel.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear light",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=63_1074&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-side-panel-light",
+    "category": "Lighting / Rear",
+    "name": "Rear Right Side-Panel Light",
+    "oemNumber": "63217289430",
+    "aliases": [
+      "right tail light",
+      "passenger tail light",
+      "right rear lamp",
+      "outer right tail lamp",
+      "rear quarter tail light"
+    ],
+    "symptoms": [
+      "right tail light cracked",
+      "passenger tail light broken",
+      "rear lamp water inside",
+      "right rear light out"
+    ],
+    "location": "Passenger-side rear body side panel",
+    "side": "Passenger",
+    "description": "Outer right rear light assembly mounted in the body side panel.",
+    "fitmentNotes": "Verified in the supported 2011 BMW 328i E90 LCI USA catalog profile (11/2011 production) unless otherwise noted.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Rear light",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=63_1074&id=PH53-USA-11-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "intake-manifold",
+    "category": "Engine / Intake",
+    "name": "Intake Manifold",
+    "oemNumber": "11617559523",
+    "previousOemNumbers": [
+      "11617522927"
+    ],
+    "aliases": [
+      "intake manifold",
+      "intake plenum",
+      "inlet manifold",
+      "air manifold"
+    ],
+    "symptoms": [
+      "intake manifold cracked",
+      "vacuum leak at intake",
+      "rough idle",
+      "intake air leak"
+    ],
+    "location": "Top/side of engine between throttle body and cylinder head",
+    "side": "Either",
+    "description": "Main intake manifold that distributes incoming air to the cylinders.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake manifold system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3756&id=PH53-USA-04-2010-E90N-BMW-328i"
+  },
+  {
+    "id": "intake-adjuster-large",
+    "category": "Engine / Intake",
+    "name": "Intake Manifold Adjuster Unit (Large DISA)",
+    "oemNumber": "11617579114",
+    "previousOemNumbers": [
+      "11617560537",
+      "11617522929"
+    ],
+    "aliases": [
+      "large disa valve",
+      "disa valve",
+      "intake flap actuator",
+      "intake manifold adjuster"
+    ],
+    "symptoms": [
+      "rattle from intake",
+      "rough idle",
+      "loss of low end torque",
+      "disa fault"
+    ],
+    "location": "Mounted in the intake manifold",
+    "side": "Either",
+    "description": "Larger intake-manifold adjuster unit that changes intake runner behavior.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake manifold system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3756&id=PH53-USA-04-2010-E90N-BMW-328i"
+  },
+  {
+    "id": "intake-adjuster-small",
+    "category": "Engine / Intake",
+    "name": "Intake Manifold Adjuster Unit (Small DISA)",
+    "oemNumber": "11617560538",
+    "aliases": [
+      "small disa valve",
+      "disa actuator",
+      "intake flap",
+      "manifold adjuster"
+    ],
+    "symptoms": [
+      "intake rattle",
+      "intake flap fault",
+      "hesitation",
+      "uneven power"
+    ],
+    "location": "Mounted in the intake manifold",
+    "side": "Either",
+    "description": "Smaller intake-manifold adjuster unit used in the variable intake system.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake manifold system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3756&id=PH53-USA-04-2010-E90N-BMW-328i"
+  },
+  {
+    "id": "intake-manifold-gasket-set",
+    "category": "Engine / Intake",
+    "name": "Intake Manifold Profile Gasket Set",
+    "oemNumber": "11617547242",
+    "aliases": [
+      "intake manifold gasket",
+      "intake seals",
+      "manifold seal set",
+      "runner gaskets"
+    ],
+    "symptoms": [
+      "vacuum leak",
+      "lean code",
+      "rough idle",
+      "hissing at intake manifold"
+    ],
+    "location": "Between intake manifold and cylinder head",
+    "side": "Either",
+    "description": "Profile-gasket set that seals the intake manifold to the engine.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake manifold system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3756&id=PH53-USA-04-2010-E90N-BMW-328i"
+  },
+  {
+    "id": "intake-muffler",
+    "category": "Engine / Intake",
+    "name": "Intake Muffler / Airbox",
+    "oemNumber": "13717555288",
+    "aliases": [
+      "airbox",
+      "air filter box",
+      "intake box",
+      "air cleaner housing"
+    ],
+    "symptoms": [
+      "cracked airbox",
+      "intake box broken",
+      "unfiltered air leak"
+    ],
+    "location": "Front engine bay intake tract",
+    "side": "Either",
+    "description": "Main air-filter housing/intake muffler assembly.",
+    "fitmentNotes": "Cross-listed for E90 LCI 328i; verify VIN/engine configuration before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Intake muffler / filter / HFM",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1148&id=PH73-USA-03-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "air-filter-element",
+    "category": "Engine / Intake",
+    "name": "Engine Air Filter Element",
+    "oemNumber": "13717542294",
+    "aliases": [
+      "air filter",
+      "engine air filter",
+      "airbox filter",
+      "intake filter"
+    ],
+    "symptoms": [
+      "dirty air filter",
+      "restricted intake",
+      "air filter service due"
+    ],
+    "location": "Inside the intake muffler/airbox",
+    "side": "Either",
+    "description": "Replaceable engine air-filter element.",
+    "fitmentNotes": "Cross-reference includes E90 LCI; verify service part by VIN before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake muffler / filter / HFM",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1148&id=PH73-USA-03-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "maf-sensor",
+    "category": "Engine / Intake",
+    "name": "Hot-Film Air Mass Meter (MAF)",
+    "oemNumber": "13627551638",
+    "previousOemNumbers": [
+      "13627585680"
+    ],
+    "aliases": [
+      "maf sensor",
+      "mass air flow sensor",
+      "airflow meter",
+      "air mass sensor"
+    ],
+    "symptoms": [
+      "rough idle",
+      "hesitation",
+      "maf code",
+      "poor acceleration",
+      "incorrect air reading"
+    ],
+    "location": "Intake tract downstream of the air filter",
+    "side": "Either",
+    "description": "Hot-film meter that measures incoming air mass for engine management.",
+    "fitmentNotes": "Cross-reference includes E90 LCI; exact engine configuration should be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Intake muffler / filter / HFM",
+    "sourceUrl": "https://www.realoem.com/bmw/en/partxref?q=13627551638"
+  },
+  {
+    "id": "maf-o-ring",
+    "category": "Engine / Intake",
+    "name": "MAF Sensor O-Ring",
+    "oemNumber": "13627532318",
+    "aliases": [
+      "maf o ring",
+      "airflow sensor seal",
+      "intake meter o-ring"
+    ],
+    "symptoms": [
+      "air leak at maf",
+      "damaged maf seal",
+      "intake leak"
+    ],
+    "location": "At the hot-film air mass meter connection",
+    "side": "Either",
+    "description": "O-ring used to seal the air-mass-meter connection.",
+    "fitmentNotes": "Listed with the E90 LCI 328i intake-muffler/HFM assembly; confirm configuration by VIN.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Intake muffler / filter / HFM",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1148&id=PH73-USA-03-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "front-suction-hood",
+    "category": "Engine / Intake",
+    "name": "Front Intake Suction Hood",
+    "oemNumber": "13717541738",
+    "aliases": [
+      "intake snorkel",
+      "air intake duct",
+      "front air duct",
+      "intake scoop"
+    ],
+    "symptoms": [
+      "broken intake snorkel",
+      "cracked air duct",
+      "loose intake duct"
+    ],
+    "location": "Front of engine bay feeding the airbox",
+    "side": "Either",
+    "description": "Front air-intake duct that channels outside air toward the airbox.",
+    "fitmentNotes": "Listed in the E90 LCI 328i intake assembly; verify exact bumper/intake configuration.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Intake muffler / filter / HFM",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1148&id=PH73-USA-03-2011-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-injection-tube",
+    "category": "Fuel / Injection",
+    "name": "Fuel Injection Tube / Fuel Rail",
+    "oemNumber": "13537542541",
+    "aliases": [
+      "fuel rail",
+      "injector rail",
+      "fuel injection rail"
+    ],
+    "symptoms": [
+      "fuel leak at rail",
+      "damaged fuel rail"
+    ],
+    "location": "Top side of engine feeding the injectors",
+    "side": "Either",
+    "description": "Fuel rail/tube that supplies pressurized fuel to the injectors.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-rail-cap",
+    "category": "Fuel / Injection",
+    "name": "Fuel Rail Cap",
+    "oemNumber": "13537506155",
+    "aliases": [
+      "fuel rail cap",
+      "injection rail cap",
+      "fuel tube cap"
+    ],
+    "symptoms": [
+      "missing fuel rail cap",
+      "damaged rail cap"
+    ],
+    "location": "On the fuel-injection rail",
+    "side": "Either",
+    "description": "Cap used on the fuel-injection rail assembly.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-injector",
+    "category": "Fuel / Injection",
+    "name": "Fuel Injector / Injection Valve",
+    "oemNumber": "13537531634",
+    "aliases": [
+      "fuel injector",
+      "injection valve",
+      "injector nozzle"
+    ],
+    "symptoms": [
+      "misfire",
+      "injector leak",
+      "rough idle",
+      "fuel injector fault"
+    ],
+    "location": "At the intake ports along the fuel rail",
+    "side": "Either",
+    "description": "Port fuel injector that meters fuel into the engine.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-injector-o-ring-upper",
+    "category": "Fuel / Injection",
+    "name": "Fuel Injector O-Ring 7.52 x 3.52",
+    "oemNumber": "13641437487",
+    "aliases": [
+      "injector o ring",
+      "fuel injector seal",
+      "upper injector seal"
+    ],
+    "symptoms": [
+      "fuel smell",
+      "injector seal leak",
+      "wet injector"
+    ],
+    "location": "Fuel injector sealing point",
+    "side": "Either",
+    "description": "O-ring used to seal the injector connection.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-injector-o-ring-lower",
+    "category": "Fuel / Injection",
+    "name": "Fuel Injector O-Ring 8.54 x 3.10",
+    "oemNumber": "13647531313",
+    "aliases": [
+      "injector o ring",
+      "lower injector seal",
+      "fuel injector seal"
+    ],
+    "symptoms": [
+      "vacuum leak near injector",
+      "injector seal damaged"
+    ],
+    "location": "Fuel injector sealing point",
+    "side": "Either",
+    "description": "O-ring used at the opposite injector sealing connection.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-injector-hose",
+    "category": "Fuel / Injection",
+    "name": "Fuel Injection Hose",
+    "oemNumber": "13537560586",
+    "aliases": [
+      "fuel hose",
+      "injector hose",
+      "fuel feed hose"
+    ],
+    "symptoms": [
+      "fuel smell",
+      "fuel seepage",
+      "cracked fuel hose"
+    ],
+    "location": "Fuel-injection system near rail",
+    "side": "Either",
+    "description": "Fuel hose used within the injection-system assembly.",
+    "fitmentNotes": "Catalog number cross-listed from E90 LCI 328i injection data; N51/VIN confirmation required before ordering.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel injection system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1129&id=PH73-USA-08-2008-E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-tank-vent-valve",
+    "category": "Fuel / EVAP",
+    "name": "Fuel Tank Ventilation Valve with Pipe",
+    "oemNumber": "13907618643",
+    "previousOemNumbers": [
+      "13904588396",
+      "13907572234",
+      "13907530264"
+    ],
+    "aliases": [
+      "purge valve",
+      "evap purge valve",
+      "tank vent valve",
+      "fuel vapor valve"
+    ],
+    "symptoms": [
+      "evap code",
+      "hard start after fueling",
+      "fuel vapor fault",
+      "purge valve clicking"
+    ],
+    "location": "Engine-bay EVAP/fuel-vapor system",
+    "side": "Either",
+    "description": "Valve and pipe assembly that controls fuel-tank vapor flow into the engine.",
+    "fitmentNotes": "Cross-reference includes E90 LCI N51 applications; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Fuel tank breather valve",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=13907618643&series=E90N"
+  },
+  {
+    "id": "fuel-tank-vent-bracket",
+    "category": "Fuel / EVAP",
+    "name": "Fuel Tank Ventilation Valve Bracket",
+    "oemNumber": "13907509975",
+    "aliases": [
+      "purge valve bracket",
+      "evap valve bracket",
+      "vent valve holder"
+    ],
+    "symptoms": [
+      "loose purge valve",
+      "broken evap bracket"
+    ],
+    "location": "Supports the fuel-tank ventilation valve",
+    "side": "Either",
+    "description": "Bracket that secures the fuel-tank ventilation valve.",
+    "fitmentNotes": "Part of the E90 fuel-tank-breather assembly; verify VIN before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel tank breather valve",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=13907618643&series=E90N"
+  },
+  {
+    "id": "fuel-tank-breather-line",
+    "category": "Fuel / EVAP",
+    "name": "Fuel Tank Breather Line",
+    "oemNumber": "13907530976",
+    "aliases": [
+      "evap line",
+      "vapor line",
+      "tank vent line",
+      "fuel vapor hose"
+    ],
+    "symptoms": [
+      "evap leak",
+      "cracked vapor line",
+      "fuel smell"
+    ],
+    "location": "Between fuel-tank vapor system and purge components",
+    "side": "Either",
+    "description": "Breather/vapor line used by the evaporative-emissions system.",
+    "fitmentNotes": "Part of the E90 fuel-tank-breather system; routing can vary by production/options.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fuel tank breather valve",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=13907618643&series=E90N"
+  },
+  {
+    "id": "fuel-delivery-unit-right",
+    "category": "Fuel / Tank",
+    "name": "Right Fuel Pump / Delivery Unit",
+    "oemNumber": "16147194207",
+    "aliases": [
+      "fuel pump",
+      "fuel pump module",
+      "in tank fuel pump",
+      "right fuel pump",
+      "fuel delivery unit"
+    ],
+    "symptoms": [
+      "no start",
+      "low fuel pressure",
+      "fuel pump failure",
+      "whining fuel pump"
+    ],
+    "location": "Inside fuel tank, right side",
+    "side": "Passenger",
+    "description": "Right-side in-tank fuel pump and delivery-unit module.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Fuel filter/pump/fuel level sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=16_0688&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-flange-cover-repair-kit",
+    "category": "Fuel / Tank",
+    "name": "Fuel Flange Cover Repair Kit",
+    "oemNumber": "16117194201",
+    "aliases": [
+      "fuel pump flange repair",
+      "tank flange cover kit",
+      "fuel access flange kit"
+    ],
+    "symptoms": [
+      "fuel smell near tank",
+      "leaking pump flange",
+      "damaged flange cover"
+    ],
+    "location": "Fuel-tank pump/flange area",
+    "side": "Either",
+    "description": "Repair kit for the fuel-tank flange cover.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Fuel filter/pump/fuel level sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=16_0688&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "fuel-pump-retainer",
+    "category": "Fuel / Tank",
+    "name": "Fuel Pump Retainer",
+    "oemNumber": "16117162168",
+    "aliases": [
+      "fuel pump retaining ring",
+      "pump retainer",
+      "tank pump lock ring"
+    ],
+    "symptoms": [
+      "fuel pump loose",
+      "damaged retaining ring"
+    ],
+    "location": "Fuel-tank delivery-unit mounting area",
+    "side": "Either",
+    "description": "Retainer that secures the fuel delivery-unit assembly.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Fuel filter/pump/fuel level sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=16_0688&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "right-fuel-level-sensor",
+    "category": "Fuel / Tank",
+    "name": "Right Fuel Level Sensor",
+    "oemNumber": "16117248294",
+    "aliases": [
+      "fuel sender",
+      "gas gauge sensor",
+      "tank level sensor",
+      "fuel level sender"
+    ],
+    "symptoms": [
+      "fuel gauge wrong",
+      "fuel level jumps",
+      "empty reading incorrect"
+    ],
+    "location": "Inside fuel tank, right side",
+    "side": "Passenger",
+    "description": "Right-side fuel-level sender used to report tank level.",
+    "fitmentNotes": "Verified for the supported E90 LCI 328i N51 USA catalog family; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Fuel filter/pump/fuel level sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=16_0688&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "throttle-housing",
+    "category": "Engine / Intake",
+    "name": "Throttle Housing Assembly",
+    "oemNumber": "13547556118",
+    "aliases": [
+      "throttle body",
+      "throttle housing",
+      "electronic throttle",
+      "throttle valve"
+    ],
+    "symptoms": [
+      "throttle fault",
+      "poor throttle response",
+      "limp mode",
+      "throttle body sticking"
+    ],
+    "location": "Intake tract between air duct and intake manifold",
+    "side": "Either",
+    "description": "Electronic throttle-body/housing assembly controlling intake airflow.",
+    "fitmentNotes": "Part cross-reference covers E90 328i; confirm VIN before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Throttle Housing Assembly",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=13547556118"
+  },
+  {
+    "id": "throttle-body-gasket",
+    "category": "Engine / Intake",
+    "name": "Throttle Body Gasket",
+    "oemNumber": "13547582931",
+    "aliases": [
+      "throttle gasket",
+      "throttle body seal",
+      "throttle housing gasket"
+    ],
+    "symptoms": [
+      "vacuum leak at throttle body",
+      "damaged throttle seal"
+    ],
+    "location": "Between throttle housing and intake manifold",
+    "side": "Either",
+    "description": "Gasket used with later-index throttle-housing assemblies from 10/2009 onward.",
+    "fitmentNotes": "Catalog specifies this gasket from 10/2009 onward, covering the supported 2011 production profile.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Throttle Housing Assembly",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=13_1130&id=VC57-USA---E90-BMW-328i"
+  },
+  {
+    "id": "vacuum-pump",
+    "category": "Engine / Vacuum",
+    "name": "Engine Vacuum Pump",
+    "oemNumber": "11667558344",
+    "aliases": [
+      "vacuum pump",
+      "brake vacuum pump",
+      "engine vacuum pump"
+    ],
+    "symptoms": [
+      "hard brake pedal",
+      "vacuum leak",
+      "oil leak at vacuum pump"
+    ],
+    "location": "Engine cylinder-head area",
+    "side": "Either",
+    "description": "Mechanical vacuum pump that supplies vacuum to vehicle systems such as the brake booster.",
+    "fitmentNotes": "N51/N52-family vacuum-pump catalog entry; confirm VIN/engine production before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Vacuum pump",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3758&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "vacuum-pump-gasket",
+    "category": "Engine / Vacuum",
+    "name": "Vacuum Pump Gasket",
+    "oemNumber": "11667525815",
+    "aliases": [
+      "vacuum pump seal",
+      "vacuum pump gasket",
+      "pump o ring"
+    ],
+    "symptoms": [
+      "oil leak at vacuum pump",
+      "vacuum leak at pump"
+    ],
+    "location": "Between vacuum pump and engine",
+    "side": "Either",
+    "description": "Seal/gasket for the engine vacuum pump.",
+    "fitmentNotes": "Listed with the N51/N52-family vacuum-pump assembly; confirm VIN.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Vacuum pump",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3758&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "vacuum-pump-sprocket",
+    "category": "Engine / Vacuum",
+    "name": "Vacuum Pump Sprocket",
+    "oemNumber": "11417516128",
+    "aliases": [
+      "vacuum pump gear",
+      "vacuum pump sprocket",
+      "pump drive sprocket"
+    ],
+    "symptoms": [
+      "vacuum pump drive damage",
+      "sprocket wear"
+    ],
+    "location": "Vacuum-pump drive area on engine",
+    "side": "Either",
+    "description": "Drive sprocket associated with the vacuum-pump system.",
+    "fitmentNotes": "Engine-level catalog component; confirm VIN/production before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Vacuum pump",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3758&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "dme-msv80-control-module",
+    "category": "Engine Electrical",
+    "name": "DME MSV80.1 Base Control Module",
+    "oemNumber": "12148613002",
+    "previousOemNumbers": [
+      "12147602216",
+      "12147614362",
+      "12147624052",
+      "12147629046",
+      "12147639647"
+    ],
+    "aliases": [
+      "dme",
+      "ecu",
+      "engine computer",
+      "engine control module",
+      "msv80",
+      "msv80.1"
+    ],
+    "symptoms": [
+      "no communication with dme",
+      "engine computer fault",
+      "ecu failure",
+      "crank no start"
+    ],
+    "location": "Electronics-box / engine control area",
+    "side": "Either",
+    "description": "Engine-management control module for MSV80.1 applications.",
+    "fitmentNotes": "RealOEM PH53 catalog lists this DME family; control modules require coding/programming and VIN-specific confirmation.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Basic control module DME / MSV80.1",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=12_1461&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "exhaust-manifold-cat-cyl-1-3",
+    "category": "Exhaust / Catalyst",
+    "name": "Exhaust Manifold with Catalytic Converter, Cylinders 1–3",
+    "oemNumber": "18407556989",
+    "aliases": [
+      "front catalytic converter",
+      "bank 1 catalytic converter",
+      "exhaust manifold cat 1-3",
+      "front cat"
+    ],
+    "symptoms": [
+      "catalyst efficiency code",
+      "exhaust leak at manifold",
+      "rattling catalytic converter"
+    ],
+    "location": "Engine exhaust side, cylinders 1–3",
+    "side": "Either",
+    "description": "ULEV2 exhaust manifold assembly incorporating the catalytic converter for cylinders 1–3.",
+    "fitmentNotes": "Catalog entry applies after 09/2009 in the N51/ULEV2 family; confirm VIN/emissions configuration.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Exhaust manifold with catalyst",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0587&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "exhaust-manifold-cat-cyl-4-6",
+    "category": "Exhaust / Catalyst",
+    "name": "Exhaust Manifold with Catalytic Converter, Cylinders 4–6",
+    "oemNumber": "18407556990",
+    "aliases": [
+      "rear catalytic converter",
+      "bank 2 catalytic converter",
+      "exhaust manifold cat 4-6",
+      "rear cat"
+    ],
+    "symptoms": [
+      "catalyst efficiency code",
+      "exhaust leak at manifold",
+      "rattling catalytic converter"
+    ],
+    "location": "Engine exhaust side, cylinders 4–6",
+    "side": "Either",
+    "description": "ULEV2 exhaust manifold assembly incorporating the catalytic converter for cylinders 4–6.",
+    "fitmentNotes": "Catalog entry applies after 09/2009 in the N51/ULEV2 family; confirm VIN/emissions configuration.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Exhaust manifold with catalyst",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0587&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-exhaust-system",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust System Assembly",
+    "oemNumber": "18307572671",
+    "aliases": [
+      "rear exhaust",
+      "muffler assembly",
+      "rear muffler",
+      "cat back exhaust"
+    ],
+    "symptoms": [
+      "exhaust leak",
+      "muffler rusted",
+      "loud rear exhaust"
+    ],
+    "location": "Underbody from center/rear exhaust section to tailpipes",
+    "side": "Either",
+    "description": "Complete rear exhaust-system assembly listed for E90 LCI 328i.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-exhaust-clamp",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust Clamping Bush",
+    "oemNumber": "18307560778",
+    "aliases": [
+      "exhaust clamp",
+      "muffler clamp",
+      "exhaust coupling clamp"
+    ],
+    "symptoms": [
+      "exhaust leak at joint",
+      "loose exhaust connection"
+    ],
+    "location": "Rear exhaust pipe joint",
+    "side": "Either",
+    "description": "Clamping bush used to join exhaust sections.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-exhaust-holder-a",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust Holder A",
+    "oemNumber": "18207549977",
+    "aliases": [
+      "exhaust hanger bracket",
+      "muffler holder",
+      "exhaust support"
+    ],
+    "symptoms": [
+      "exhaust hanging low",
+      "broken muffler bracket"
+    ],
+    "location": "Rear exhaust support area",
+    "side": "Either",
+    "description": "Metal holder supporting the rear exhaust assembly.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-exhaust-rubber-mount",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust Rubber Mount",
+    "oemNumber": "18207590154",
+    "aliases": [
+      "exhaust rubber hanger",
+      "muffler rubber",
+      "exhaust isolator"
+    ],
+    "symptoms": [
+      "exhaust rattling",
+      "muffler sagging",
+      "torn exhaust hanger"
+    ],
+    "location": "Rear exhaust mounting points",
+    "side": "Either",
+    "description": "Rubber isolator/mount suspending the exhaust from the body.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-exhaust-holder-b",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust Holder B",
+    "oemNumber": "18307526848",
+    "aliases": [
+      "exhaust hanger bracket",
+      "muffler holder",
+      "rear exhaust bracket"
+    ],
+    "symptoms": [
+      "exhaust rattle",
+      "loose exhaust hanger"
+    ],
+    "location": "Rear exhaust support area",
+    "side": "Either",
+    "description": "One of the cataloged metal holders for the rear exhaust.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-exhaust-holder-c",
+    "category": "Exhaust / Rear",
+    "name": "Rear Exhaust Holder C",
+    "oemNumber": "18207526850",
+    "aliases": [
+      "exhaust bracket",
+      "exhaust holder",
+      "muffler hanger bracket"
+    ],
+    "symptoms": [
+      "rear exhaust loose",
+      "exhaust rattling"
+    ],
+    "location": "Rear exhaust support area",
+    "side": "Either",
+    "description": "Additional cataloged holder used to support the rear exhaust.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "tailpipe-end-piece-a",
+    "category": "Exhaust / Rear",
+    "name": "Tailpipe End Piece A (Alu-Look)",
+    "oemNumber": "18307553643",
+    "aliases": [
+      "exhaust tip",
+      "tailpipe tip",
+      "muffler tip",
+      "chrome exhaust tip"
+    ],
+    "symptoms": [
+      "exhaust tip missing",
+      "tailpipe trim damaged"
+    ],
+    "location": "Rear bumper/tailpipe outlet",
+    "side": "Either",
+    "description": "Aluminum-look tailpipe finishing piece.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "tailpipe-end-piece-b",
+    "category": "Exhaust / Rear",
+    "name": "Tailpipe End Piece B (Alu-Look)",
+    "oemNumber": "18307553644",
+    "aliases": [
+      "exhaust tip",
+      "tailpipe tip",
+      "muffler tip",
+      "chrome exhaust tip"
+    ],
+    "symptoms": [
+      "exhaust tip missing",
+      "tailpipe trim damaged"
+    ],
+    "location": "Rear bumper/tailpipe outlet",
+    "side": "Either",
+    "description": "Second aluminum-look tailpipe finishing piece.",
+    "fitmentNotes": "Verified in the E90 LCI 328i rear-exhaust catalog; mounting details should still be confirmed by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exhaust system, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=18_0687&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "upstream-o2-sensor-long",
+    "category": "Exhaust / Sensors",
+    "name": "Regulating Lambda / O2 Sensor 1400 mm",
+    "oemNumber": "11787558055",
+    "previousOemNumbers": [
+      "11787537993"
+    ],
+    "aliases": [
+      "oxygen sensor",
+      "o2 sensor",
+      "lambda sensor",
+      "upstream o2",
+      "1400mm lambda probe"
+    ],
+    "symptoms": [
+      "check engine light",
+      "oxygen sensor code",
+      "fuel trim fault",
+      "poor mileage"
+    ],
+    "location": "Exhaust system before/around catalyst depending bank",
+    "side": "Either",
+    "description": "1400 mm regulating lambda probe used in the engine-management exhaust-sensing system.",
+    "fitmentNotes": "Cross-reference includes E90 LCI. Multiple O2-sensor positions exist, so identify bank/position by VIN and diagram before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Lambda probe cross-reference",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=11787558055"
+  },
+  {
+    "id": "upstream-o2-sensor-short",
+    "category": "Exhaust / Sensors",
+    "name": "Regulating Lambda / O2 Sensor 910 mm",
+    "oemNumber": "11787558073",
+    "previousOemNumbers": [
+      "11787537984"
+    ],
+    "aliases": [
+      "oxygen sensor",
+      "o2 sensor",
+      "lambda sensor",
+      "upstream o2",
+      "910mm lambda probe"
+    ],
+    "symptoms": [
+      "check engine light",
+      "oxygen sensor code",
+      "fuel trim fault"
+    ],
+    "location": "Exhaust system before/around catalyst depending bank",
+    "side": "Either",
+    "description": "910 mm regulating lambda probe used in the engine-management exhaust-sensing system.",
+    "fitmentNotes": "Cross-reference includes E90 LCI. Multiple sensor positions exist; confirm bank/position by VIN and diagram.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Lambda probe cross-reference",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=11787558073"
+  },
+  {
+    "id": "downstream-o2-sensor",
+    "category": "Exhaust / Sensors",
+    "name": "Lambda Monitor / Downstream O2 Sensor 560 mm",
+    "oemNumber": "11787545074",
+    "aliases": [
+      "downstream oxygen sensor",
+      "rear o2 sensor",
+      "post cat o2 sensor",
+      "lambda monitor"
+    ],
+    "symptoms": [
+      "catalyst monitor code",
+      "downstream o2 fault",
+      "check engine light"
+    ],
+    "location": "Exhaust system downstream of catalyst",
+    "side": "Either",
+    "description": "Monitor lambda sensor used to check catalyst/exhaust performance.",
+    "fitmentNotes": "Cross-listed in E90 N51/N52 applications; confirm exact bank/position before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Lambda monitor sensor",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=11787545074"
+  },
+  {
+    "id": "thermostat-to-water-pump-hose",
+    "category": "Engine / Cooling",
+    "name": "Thermostat-to-Water-Pump Hose",
+    "oemNumber": "11537521049",
+    "aliases": [
+      "water pump hose",
+      "thermostat hose",
+      "coolant pump hose",
+      "short coolant hose"
+    ],
+    "symptoms": [
+      "coolant leak near water pump",
+      "hose cracked",
+      "coolant dripping under engine"
+    ],
+    "location": "Between thermostat and electric coolant pump",
+    "side": "Either",
+    "description": "Coolant hose connecting the thermostat and electric water pump.",
+    "fitmentNotes": "Engine cooling-hose catalog component; confirm VIN/production before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Cooling system coolant hoses",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=11_3755&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "engine-supply-to-water-pump-pipe",
+    "category": "Engine / Cooling",
+    "name": "Engine Supply Pipe to Coolant Pump",
+    "oemNumber": "11537516414",
+    "aliases": [
+      "coolant pipe",
+      "water pump supply pipe",
+      "engine coolant pipe",
+      "pump inlet pipe"
+    ],
+    "symptoms": [
+      "coolant leak at pump",
+      "cracked coolant pipe",
+      "coolant loss"
+    ],
+    "location": "Engine cooling circuit near electric water pump",
+    "side": "Either",
+    "description": "Rigid/formed coolant supply pipe connecting engine cooling passages to the pump.",
+    "fitmentNotes": "Cross-reference includes E90 LCI family; confirm N51/VIN before purchase.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Cooling system coolant hoses",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?diagId=11_3755&id=NE73-USA---E60-BMW-530i&mg=11&q=11537516414&series=E90N&sg=35"
+  },
+  {
+    "id": "upper-radiator-hose",
+    "category": "Engine / Cooling",
+    "name": "Upper Radiator Hose",
+    "oemNumber": "17127531579",
+    "aliases": [
+      "upper coolant hose",
+      "top radiator hose",
+      "radiator upper hose"
+    ],
+    "symptoms": [
+      "coolant leak at top radiator",
+      "upper hose swollen",
+      "hose cracked"
+    ],
+    "location": "Upper radiator to engine/expansion-tank area",
+    "side": "Either",
+    "description": "Upper cooling-system hose assembly connected to the radiator.",
+    "fitmentNotes": "Catalog/cross-reference covers E90 LCI 328i; verify production date and connections by VIN.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Radiator / expansion tank hoses",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?id=PH53-USA-01-2011-E90N-BMW-328i&diagId=17_0351"
+  },
+  {
+    "id": "radiator-vent-line",
+    "category": "Engine / Cooling",
+    "name": "Radiator Vent / Expansion-Tank Return Line",
+    "oemNumber": "17127618510",
+    "previousOemNumbers": [
+      "17127565093",
+      "17127531590",
+      "17124513540"
+    ],
+    "aliases": [
+      "coolant vent hose",
+      "expansion tank return hose",
+      "radiator vent line",
+      "small coolant hose"
+    ],
+    "symptoms": [
+      "small coolant hose leaking",
+      "vent line cracked",
+      "coolant spray near expansion tank"
+    ],
+    "location": "Top of radiator to expansion-tank/bleed circuit",
+    "side": "Either",
+    "description": "Small coolant vent/return line in the radiator and expansion-tank circuit.",
+    "fitmentNotes": "Current replacement number applies from 02/2011; supported vehicle is 11/2011 production.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Radiator / expansion tank hoses",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?id=PH53-USA-01-2011-E90N-BMW-328i&diagId=17_0351"
+  },
+  {
+    "id": "radiator-manual",
+    "category": "Engine / Cooling",
+    "name": "Radiator — Standard / Manual-Transmission Branch",
+    "oemNumber": "17117559273",
+    "previousOemNumbers": [
+      "17117521048"
+    ],
+    "aliases": [
+      "radiator",
+      "engine radiator",
+      "coolant radiator",
+      "manual transmission radiator",
+      "standard radiator"
+    ],
+    "symptoms": [
+      "radiator leaking",
+      "engine overheating",
+      "damaged radiator core"
+    ],
+    "location": "Front of vehicle cooling stack",
+    "side": "Either",
+    "description": "Engine coolant radiator used for the standard catalog branch when S205A/S2TBA are not present.",
+    "fitmentNotes": "Transmission/options affect radiator selection. Use only after checking VIN/build configuration.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Mounting parts for radiator",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=17_0323&id=PH73-USA-06-2009-E90N-BMW-328i"
+  },
+  {
+    "id": "radiator-automatic",
+    "category": "Engine / Cooling",
+    "name": "Radiator — Automatic / Sport Automatic Configuration",
+    "oemNumber": "17117562079",
+    "aliases": [
+      "automatic transmission radiator",
+      "sport automatic transmission radiator",
+      "automatic radiator",
+      "sport automatic radiator",
+      "engine radiator",
+      "coolant radiator"
+    ],
+    "symptoms": [
+      "radiator leak",
+      "overheating",
+      "damaged radiator core"
+    ],
+    "location": "Front of vehicle cooling stack",
+    "side": "Either",
+    "description": "Engine coolant radiator cataloged for vehicles with automatic or sport automatic transmission.",
+    "fitmentNotes": "Requires automatic transmission (S205A) or sport automatic (S2TBA) branch; verify vehicle options.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Mounting parts for radiator",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=17_0323&id=PH73-USA-06-2009-E90N-BMW-328i"
+  },
+  {
+    "id": "radiator-fan-400w",
+    "category": "Engine / Cooling",
+    "name": "Radiator Fan Housing with Fan 400W",
+    "oemNumber": "17117590699",
+    "previousOemNumbers": [
+      "17427523259"
+    ],
+    "aliases": [
+      "radiator fan",
+      "electric cooling fan",
+      "fan assembly",
+      "400w fan",
+      "cooling fan"
+    ],
+    "symptoms": [
+      "engine overheating at idle",
+      "cooling fan not running",
+      "fan fault"
+    ],
+    "location": "Behind radiator at front cooling stack",
+    "side": "Either",
+    "description": "400W electric radiator-fan and housing assembly.",
+    "fitmentNotes": "Cross-reference includes E90 LCI, but fan specification can vary with options/climate package; verify VIN.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Fan housing with fan cross-reference",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=17117590699"
+  },
+  {
+    "id": "fan-shroud",
+    "category": "Engine / Cooling",
+    "name": "Radiator Fan Shroud",
+    "oemNumber": "17427533274",
+    "aliases": [
+      "fan shroud",
+      "radiator shroud",
+      "cooling fan housing",
+      "fan surround"
+    ],
+    "symptoms": [
+      "broken fan shroud",
+      "fan rubbing plastic",
+      "missing radiator shroud"
+    ],
+    "location": "Around radiator cooling fan",
+    "side": "Either",
+    "description": "Plastic shroud that guides airflow through the radiator/fan assembly.",
+    "fitmentNotes": "Cooling package may vary; verify the exact fan/shroud configuration by VIN.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Radiator fan housing",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=17_0324&id=PH53-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "cabin-microfilter",
+    "category": "HVAC / Filters",
+    "name": "Cabin Microfilter / Activated Carbon Filter",
+    "oemNumber": "64319313519",
+    "previousOemNumbers": [
+      "64316962553",
+      "64319142115",
+      "64316962549",
+      "64316946628"
+    ],
+    "aliases": [
+      "cabin air filter",
+      "pollen filter",
+      "microfilter",
+      "ac filter",
+      "activated carbon filter"
+    ],
+    "symptoms": [
+      "musty air vents",
+      "weak airflow",
+      "cabin filter service",
+      "dirty cabin filter"
+    ],
+    "location": "Cowl area at base of windshield, HVAC air intake",
+    "side": "Either",
+    "description": "Cabin/HVAC microfilter that filters incoming ventilation air.",
+    "fitmentNotes": "Current replacement number supersedes the earlier filter used during 2011; cross-reference explicitly includes PH53 E90 LCI 328i.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Microfilter / activated carbon container",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/partxref?q=64319313519&series=E90N"
+  },
+  {
+    "id": "rear-left-window-regulator",
+    "category": "Door / Window",
+    "name": "Rear Left Window Regulator",
+    "oemNumber": "51357140589",
+    "aliases": [
+      "rear driver window regulator",
+      "left rear window lifter",
+      "rear window mechanism",
+      "rear window track"
+    ],
+    "symptoms": [
+      "rear left window falls into door",
+      "rear left window crooked",
+      "rear window cable broke",
+      "rear left window will not move"
+    ],
+    "location": "Inside the rear-left door",
+    "side": "Driver",
+    "description": "Mechanical window-lifting assembly for the rear-left door glass.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment; body component is engine-independent.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-window-regulator",
+    "category": "Door / Window",
+    "name": "Rear Right Window Regulator",
+    "oemNumber": "51357140590",
+    "aliases": [
+      "rear passenger window regulator",
+      "right rear window lifter",
+      "rear window mechanism",
+      "rear window track"
+    ],
+    "symptoms": [
+      "rear right window falls into door",
+      "rear right window crooked",
+      "rear window cable broke",
+      "rear right window will not move"
+    ],
+    "location": "Inside the rear-right door",
+    "side": "Passenger",
+    "description": "Mechanical window-lifting assembly for the rear-right door glass.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment; body component is engine-independent.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-window-motor",
+    "category": "Door / Electrical",
+    "name": "Rear Left Window Lifter Drive",
+    "oemNumber": "67626927025",
+    "aliases": [
+      "rear left window motor",
+      "driver rear power window motor",
+      "rear window drive"
+    ],
+    "symptoms": [
+      "rear left window motor clicks",
+      "rear left window moves slowly",
+      "rear left window has no movement"
+    ],
+    "location": "Inside the rear-left door, attached to the regulator",
+    "side": "Driver",
+    "description": "Electric drive motor for the rear-left window regulator.",
+    "fitmentNotes": "Verify the regulator is not the failed component before replacing the motor.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-window-motor",
+    "category": "Door / Electrical",
+    "name": "Rear Right Window Lifter Drive",
+    "oemNumber": "67626927026",
+    "aliases": [
+      "rear right window motor",
+      "passenger rear power window motor",
+      "rear window drive"
+    ],
+    "symptoms": [
+      "rear right window motor clicks",
+      "rear right window moves slowly",
+      "rear right window has no movement"
+    ],
+    "location": "Inside the rear-right door, attached to the regulator",
+    "side": "Passenger",
+    "description": "Electric drive motor for the rear-right window regulator.",
+    "fitmentNotes": "Verify the regulator is not the failed component before replacing the motor.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-window-guide",
+    "category": "Door / Window",
+    "name": "Rear Left Window Guide",
+    "oemNumber": "51347060257",
+    "aliases": [
+      "left rear window guide",
+      "rear driver window channel",
+      "rear window glass guide"
+    ],
+    "symptoms": [
+      "rear window rattles",
+      "rear glass loose",
+      "rear window binds in track"
+    ],
+    "location": "Rear-left door window frame",
+    "side": "Driver",
+    "description": "Guide channel that locates the rear-left door glass as it moves.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-window-guide",
+    "category": "Door / Window",
+    "name": "Rear Right Window Guide",
+    "oemNumber": "51347060258",
+    "aliases": [
+      "right rear window guide",
+      "rear passenger window channel",
+      "rear window glass guide"
+    ],
+    "symptoms": [
+      "rear window rattles",
+      "rear glass loose",
+      "rear window binds in track"
+    ],
+    "location": "Rear-right door window frame",
+    "side": "Passenger",
+    "description": "Guide channel that locates the rear-right door glass as it moves.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-side-window-seal",
+    "category": "Door / Seals",
+    "name": "Rear Left Side Window Seal",
+    "oemNumber": "51347060219",
+    "aliases": [
+      "rear left window seal",
+      "rear driver window rubber",
+      "rear window weather seal"
+    ],
+    "symptoms": [
+      "wind noise rear door",
+      "water leak around rear window",
+      "torn rear window rubber"
+    ],
+    "location": "Rear-left door window opening",
+    "side": "Driver",
+    "description": "Seal around the rear-left side window opening.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-side-window-seal",
+    "category": "Door / Seals",
+    "name": "Rear Right Side Window Seal",
+    "oemNumber": "51347060220",
+    "aliases": [
+      "rear right window seal",
+      "rear passenger window rubber",
+      "rear window weather seal"
+    ],
+    "symptoms": [
+      "wind noise rear door",
+      "water leak around rear window",
+      "torn rear window rubber"
+    ],
+    "location": "Rear-right door window opening",
+    "side": "Passenger",
+    "description": "Seal around the rear-right side window opening.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Door window lifting mechanism rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5731&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-door-latch",
+    "category": "Door / Locking",
+    "name": "Rear Left Door System Latch",
+    "oemNumber": "51227229459",
+    "aliases": [
+      "rear left door lock actuator",
+      "driver rear door latch",
+      "rear door lock mechanism"
+    ],
+    "symptoms": [
+      "rear left door will not lock",
+      "rear door will not open",
+      "door lock actuator failed"
+    ],
+    "location": "Inside the rear-left door",
+    "side": "Driver",
+    "description": "Combined latch and locking mechanism for the rear-left door.",
+    "fitmentNotes": "Catalog shows this later-production latch from 09/2009 onward, appropriate to the supported 2011 production period.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-door-latch",
+    "category": "Door / Locking",
+    "name": "Rear Right Door System Latch",
+    "oemNumber": "51227229460",
+    "aliases": [
+      "rear right door lock actuator",
+      "passenger rear door latch",
+      "rear door lock mechanism"
+    ],
+    "symptoms": [
+      "rear right door will not lock",
+      "rear door will not open",
+      "door lock actuator failed"
+    ],
+    "location": "Inside the rear-right door",
+    "side": "Passenger",
+    "description": "Combined latch and locking mechanism for the rear-right door.",
+    "fitmentNotes": "Catalog shows this later-production latch from 09/2009 onward, appropriate to the supported 2011 production period.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-door-operating-rod",
+    "category": "Door / Locking",
+    "name": "Rear Left Door Operating Rod",
+    "oemNumber": "51227060289",
+    "aliases": [
+      "rear left lock rod",
+      "rear door lock rod",
+      "door latch rod"
+    ],
+    "symptoms": [
+      "inside handle moves but door does not open",
+      "door lock linkage disconnected"
+    ],
+    "location": "Inside the rear-left door",
+    "side": "Driver",
+    "description": "Mechanical linkage rod used by the rear-left door latch system.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-door-operating-rod",
+    "category": "Door / Locking",
+    "name": "Rear Right Door Operating Rod",
+    "oemNumber": "51227060290",
+    "aliases": [
+      "rear right lock rod",
+      "rear door lock rod",
+      "door latch rod"
+    ],
+    "symptoms": [
+      "inside handle moves but door does not open",
+      "door lock linkage disconnected"
+    ],
+    "location": "Inside the rear-right door",
+    "side": "Passenger",
+    "description": "Mechanical linkage rod used by the rear-right door latch system.",
+    "fitmentNotes": "E90 LCI sedan body catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-door-inside-opener-cable",
+    "category": "Door / Locking",
+    "name": "Rear Door Inside Opener Bowden Cable",
+    "oemNumber": "51227117743",
+    "aliases": [
+      "rear inside door handle cable",
+      "rear door bowden cable",
+      "inside opener cable"
+    ],
+    "symptoms": [
+      "inside rear handle does nothing",
+      "rear door only opens from outside",
+      "door handle cable snapped"
+    ],
+    "location": "Inside either rear door",
+    "side": "Either",
+    "description": "Bowden cable connecting the interior rear-door handle to the latch.",
+    "fitmentNotes": "One catalog part is used for rear-door opener linkage.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-door-catch-bracket",
+    "category": "Door / Locking",
+    "name": "Rear Door Catch Bracket",
+    "oemNumber": "51217312545",
+    "aliases": [
+      "rear door striker",
+      "door catch",
+      "rear door latch striker"
+    ],
+    "symptoms": [
+      "door rattles when closed",
+      "rear door will not latch",
+      "door alignment problem"
+    ],
+    "location": "Rear door opening on the body",
+    "side": "Either",
+    "description": "Body-mounted catch/striker that the rear-door latch engages.",
+    "fitmentNotes": "Later-production catch bracket shown from 02/2009 onward.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-handle-cover-primed",
+    "category": "Door / Exterior",
+    "name": "Rear Left Outside Handle Cover (Primed)",
+    "oemNumber": "51217162431",
+    "aliases": [
+      "rear left door handle cover",
+      "driver rear handle cap",
+      "outside handle trim"
+    ],
+    "symptoms": [
+      "rear handle cover missing",
+      "door handle trim broken"
+    ],
+    "location": "Outside rear-left door handle",
+    "side": "Driver",
+    "description": "Primed exterior cover used around the rear-left door handle assembly.",
+    "fitmentNotes": "Paint-to-match exterior trim piece.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-handle-cover-primed",
+    "category": "Door / Exterior",
+    "name": "Rear Right Outside Handle Cover (Primed)",
+    "oemNumber": "51217162432",
+    "aliases": [
+      "rear right door handle cover",
+      "passenger rear handle cap",
+      "outside handle trim"
+    ],
+    "symptoms": [
+      "rear handle cover missing",
+      "door handle trim broken"
+    ],
+    "location": "Outside rear-right door handle",
+    "side": "Passenger",
+    "description": "Primed exterior cover used around the rear-right door handle assembly.",
+    "fitmentNotes": "Paint-to-match exterior trim piece.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-handle-bracket",
+    "category": "Door / Exterior",
+    "name": "Rear Left Outside Handle Bracket",
+    "oemNumber": "51217207561",
+    "aliases": [
+      "rear left door handle bracket",
+      "driver rear handle mount",
+      "outside handle bracket"
+    ],
+    "symptoms": [
+      "outside handle loose",
+      "rear handle pulls out",
+      "handle mounting broken"
+    ],
+    "location": "Inside the rear-left outer door handle area",
+    "side": "Driver",
+    "description": "Prime-coated bracket supporting the rear-left exterior door handle.",
+    "fitmentNotes": "Later catalog version shown from 01/2008 onward.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-handle-bracket",
+    "category": "Door / Exterior",
+    "name": "Rear Right Outside Handle Bracket",
+    "oemNumber": "51217207562",
+    "aliases": [
+      "rear right door handle bracket",
+      "passenger rear handle mount",
+      "outside handle bracket"
+    ],
+    "symptoms": [
+      "outside handle loose",
+      "rear handle pulls out",
+      "handle mounting broken"
+    ],
+    "location": "Inside the rear-right outer door handle area",
+    "side": "Passenger",
+    "description": "Prime-coated bracket supporting the rear-right exterior door handle.",
+    "fitmentNotes": "Later catalog version shown for the E90 LCI rear door.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-handle-bracket-base",
+    "category": "Door / Exterior",
+    "name": "Rear Left Handle Bracket Base",
+    "oemNumber": "51217060293",
+    "aliases": [
+      "rear left handle base",
+      "door handle base",
+      "handle bracket base"
+    ],
+    "symptoms": [
+      "outside door handle loose",
+      "handle base cracked"
+    ],
+    "location": "Rear-left outer door handle assembly",
+    "side": "Driver",
+    "description": "Base piece used by the rear-left exterior door handle bracket.",
+    "fitmentNotes": "Shared E90 LCI door-handle hardware.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-handle-bracket-base",
+    "category": "Door / Exterior",
+    "name": "Rear Right Handle Bracket Base",
+    "oemNumber": "51217060294",
+    "aliases": [
+      "rear right handle base",
+      "door handle base",
+      "handle bracket base"
+    ],
+    "symptoms": [
+      "outside door handle loose",
+      "handle base cracked"
+    ],
+    "location": "Rear-right outer door handle assembly",
+    "side": "Passenger",
+    "description": "Base piece used by the rear-right exterior door handle bracket.",
+    "fitmentNotes": "Shared E90 LCI door-handle hardware.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-lock-cylinder-base",
+    "category": "Door / Locking",
+    "name": "Rear Left Lock Cylinder Base",
+    "oemNumber": "51217060667",
+    "aliases": [
+      "left lock base",
+      "door lock cylinder base",
+      "lock barrel base"
+    ],
+    "symptoms": [
+      "lock cylinder loose",
+      "door lock hardware broken"
+    ],
+    "location": "Rear-left door lock/handle area",
+    "side": "Driver",
+    "description": "Small base component used in the door-lock/handle assembly.",
+    "fitmentNotes": "Shared E90 LCI door-lock hardware.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-lock-cylinder-base",
+    "category": "Door / Locking",
+    "name": "Rear Right Lock Cylinder Base",
+    "oemNumber": "51217060668",
+    "aliases": [
+      "right lock base",
+      "door lock cylinder base",
+      "lock barrel base"
+    ],
+    "symptoms": [
+      "lock cylinder loose",
+      "door lock hardware broken"
+    ],
+    "location": "Rear-right door lock/handle area",
+    "side": "Passenger",
+    "description": "Small base component used in the door-lock/handle assembly.",
+    "fitmentNotes": "Shared E90 LCI door-lock hardware.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-outside-handle-carrier",
+    "category": "Door / Exterior",
+    "name": "Rear Left Outside Door Handle Carrier",
+    "oemNumber": "51227199839",
+    "aliases": [
+      "rear left handle carrier",
+      "driver rear exterior handle carrier",
+      "outside handle support"
+    ],
+    "symptoms": [
+      "outside handle loose",
+      "door handle carrier cracked",
+      "handle does not return"
+    ],
+    "location": "Inside the rear-left exterior door handle area",
+    "side": "Driver",
+    "description": "Carrier supporting the rear-left outside door handle mechanism.",
+    "fitmentNotes": "E90 LCI sedan rear-door catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-outside-handle-carrier",
+    "category": "Door / Exterior",
+    "name": "Rear Right Outside Door Handle Carrier",
+    "oemNumber": "51227199840",
+    "aliases": [
+      "rear right handle carrier",
+      "passenger rear exterior handle carrier",
+      "outside handle support"
+    ],
+    "symptoms": [
+      "outside handle loose",
+      "door handle carrier cracked",
+      "handle does not return"
+    ],
+    "location": "Inside the rear-right exterior door handle area",
+    "side": "Passenger",
+    "description": "Carrier supporting the rear-right outside door handle mechanism.",
+    "fitmentNotes": "E90 LCI sedan rear-door catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-left-inner-door-handle-black",
+    "category": "Door / Interior",
+    "name": "Rear Left Inner Door Handle — Black",
+    "oemNumber": "51417144545",
+    "aliases": [
+      "rear left inside handle",
+      "driver rear interior door handle",
+      "inside door pull"
+    ],
+    "symptoms": [
+      "inside handle broken",
+      "rear door will not open from inside",
+      "handle cracked"
+    ],
+    "location": "Interior side of the rear-left door",
+    "side": "Driver",
+    "description": "Black interior release handle for the rear-left door.",
+    "fitmentNotes": "Color-specific part; this record is the black version.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-right-inner-door-handle-black",
+    "category": "Door / Interior",
+    "name": "Rear Right Inner Door Handle — Black",
+    "oemNumber": "51417144546",
+    "aliases": [
+      "rear right inside handle",
+      "passenger rear interior door handle",
+      "inside door pull"
+    ],
+    "symptoms": [
+      "inside handle broken",
+      "rear door will not open from inside",
+      "handle cracked"
+    ],
+    "location": "Interior side of the rear-right door",
+    "side": "Passenger",
+    "description": "Black interior release handle for the rear-right door.",
+    "fitmentNotes": "Color-specific part; this record is the black version.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-outside-handle-bowden-cable",
+    "category": "Door / Locking",
+    "name": "Rear Outside Door Handle Bowden Cable",
+    "oemNumber": "51227060299",
+    "aliases": [
+      "rear exterior handle cable",
+      "outside door handle cable",
+      "rear handle bowden"
+    ],
+    "symptoms": [
+      "outside handle moves but door will not open",
+      "rear door handle cable snapped"
+    ],
+    "location": "Inside either rear door",
+    "side": "Either",
+    "description": "Bowden cable connecting the exterior rear-door handle mechanism to the latch.",
+    "fitmentNotes": "Catalog lists this cable for the rear-door handle system.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-door-lock-button",
+    "category": "Door / Interior",
+    "name": "Rear Door Lock Button — Black",
+    "oemNumber": "51211805643",
+    "aliases": [
+      "door lock pin",
+      "rear lock knob",
+      "black door lock button"
+    ],
+    "symptoms": [
+      "lock pin missing",
+      "door lock knob broken"
+    ],
+    "location": "Top edge of either rear door panel",
+    "side": "Either",
+    "description": "Black manual lock button/pin visible at the top of the door trim.",
+    "fitmentNotes": "Shared black lock button; color/trim confirmation recommended.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Closing system, door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1634&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "trunk-lid-no-lock-hole",
+    "category": "Body / Trunk",
+    "name": "Trunk Lid Without Lock Assembly Hole",
+    "oemNumber": "41627254425",
+    "aliases": [
+      "trunk lid",
+      "deck lid",
+      "rear trunk panel",
+      "boot lid"
+    ],
+    "symptoms": [
+      "trunk lid dented",
+      "trunk lid damaged",
+      "replacement trunk lid"
+    ],
+    "location": "Rear trunk opening",
+    "side": "Either",
+    "description": "Bare trunk/deck lid shell configured without a lock-cylinder opening.",
+    "fitmentNotes": "Catalog notes this version is for cars without a trunk lock cylinder and from 01/2009 onward.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "left-trunk-lid-hinge",
+    "category": "Body / Trunk",
+    "name": "Left Trunk Lid Hinge",
+    "oemNumber": "41627210675",
+    "aliases": [
+      "left trunk hinge",
+      "driver side trunk hinge",
+      "deck lid hinge"
+    ],
+    "symptoms": [
+      "trunk crooked",
+      "trunk hinge bent",
+      "trunk does not close evenly"
+    ],
+    "location": "Left side of the trunk lid",
+    "side": "Driver",
+    "description": "Left hinge connecting the trunk lid to the body.",
+    "fitmentNotes": "E90 LCI sedan trunk-lid catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "right-trunk-lid-hinge",
+    "category": "Body / Trunk",
+    "name": "Right Trunk Lid Hinge",
+    "oemNumber": "41627210676",
+    "aliases": [
+      "right trunk hinge",
+      "passenger side trunk hinge",
+      "deck lid hinge"
+    ],
+    "symptoms": [
+      "trunk crooked",
+      "trunk hinge bent",
+      "trunk does not close evenly"
+    ],
+    "location": "Right side of the trunk lid",
+    "side": "Passenger",
+    "description": "Right hinge connecting the trunk lid to the body.",
+    "fitmentNotes": "E90 LCI sedan trunk-lid catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "trunk-lid-gas-spring",
+    "category": "Body / Trunk",
+    "name": "Trunk Lid Gas Spring",
+    "oemNumber": "51247250308",
+    "aliases": [
+      "trunk strut",
+      "trunk shock",
+      "trunk lift support",
+      "deck lid strut"
+    ],
+    "symptoms": [
+      "trunk will not stay open",
+      "trunk falls down",
+      "weak trunk strut"
+    ],
+    "location": "Between trunk lid hinge mechanism and body",
+    "side": "Either",
+    "description": "300 N gas-pressurized support spring for the trunk lid.",
+    "fitmentNotes": "Catalog quantity is two.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "trunk-lid-gasket",
+    "category": "Body / Trunk",
+    "name": "Trunk Lid Gasket",
+    "oemNumber": "51767182079",
+    "aliases": [
+      "trunk weatherstrip",
+      "trunk seal",
+      "boot seal",
+      "rear trunk rubber"
+    ],
+    "symptoms": [
+      "water in trunk",
+      "trunk leak",
+      "torn trunk weatherstrip"
+    ],
+    "location": "Around the trunk opening",
+    "side": "Either",
+    "description": "Perimeter weather seal between the trunk lid/opening and body.",
+    "fitmentNotes": "E90 LCI sedan trunk-lid catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "trunk-hinge-stop-buffer",
+    "category": "Body / Trunk",
+    "name": "Trunk Lid Hinge Stop Buffer",
+    "oemNumber": "51247145085",
+    "aliases": [
+      "trunk stop bumper",
+      "hinge buffer",
+      "small trunk rubber stop"
+    ],
+    "symptoms": [
+      "trunk rattles",
+      "small trunk bumper missing"
+    ],
+    "location": "Trunk lid hinge/stop area",
+    "side": "Either",
+    "description": "Small stop buffer used in the trunk-lid assembly.",
+    "fitmentNotes": "Catalog quantity is two.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "trunk-lid-adjustable-stop-buffer",
+    "category": "Body / Trunk",
+    "name": "Trunk Lid Stop Buffer",
+    "oemNumber": "51247072496",
+    "aliases": [
+      "trunk bump stop",
+      "deck lid bumper",
+      "trunk rubber stop"
+    ],
+    "symptoms": [
+      "trunk rattles when closed",
+      "trunk sits uneven",
+      "trunk bump stop missing"
+    ],
+    "location": "Trunk lid/body closing area",
+    "side": "Either",
+    "description": "Rubber stop/buffer that helps support and quiet the closed trunk lid.",
+    "fitmentNotes": "E90 LCI sedan trunk-lid catalog fitment.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "rear-us-license-plate-carrier",
+    "category": "Body / Trunk",
+    "name": "Rear License Plate Carrier — USA",
+    "oemNumber": "51139448724",
+    "aliases": [
+      "rear plate bracket",
+      "license plate holder",
+      "license plate mount",
+      "plate carrier"
+    ],
+    "symptoms": [
+      "rear plate bracket broken",
+      "license plate mount missing"
+    ],
+    "location": "Center of the trunk lid / rear plate area",
+    "side": "Either",
+    "description": "U.S.-market carrier/bracket for mounting the rear license plate.",
+    "fitmentNotes": "U.S.-specific rear license-plate carrier.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single components for trunk lid",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1638&id=PH53-USA-05_2008_E90N_BMW_328i"
+  },
+  {
+    "id": "washer-hose-line",
+    "category": "Wash / Wipe",
+    "name": "Windshield Washer Hose Line",
+    "oemNumber": "61668362762",
+    "aliases": [
+      "washer hose",
+      "windshield washer tubing",
+      "washer fluid line"
+    ],
+    "symptoms": [
+      "washer fluid leaking from hose",
+      "no fluid reaches nozzles",
+      "washer hose split"
+    ],
+    "location": "Under the hood between washer reservoir/pump and spray nozzles",
+    "side": "Either",
+    "description": "Flexible hose used to carry windshield washer fluid.",
+    "fitmentNotes": "E90 LCI windshield-cleaning catalog component.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single parts for windshield cleaning",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_2009&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "washer-hose-t-connector",
+    "category": "Wash / Wipe",
+    "name": "Windshield Washer T-Connector",
+    "oemNumber": "61668374372",
+    "aliases": [
+      "washer tee",
+      "washer hose splitter",
+      "windshield washer connector"
+    ],
+    "symptoms": [
+      "washer hose leaking at connector",
+      "one washer nozzle not spraying"
+    ],
+    "location": "Under the hood in the washer-fluid hose network",
+    "side": "Either",
+    "description": "T-shaped fitting that splits washer fluid between nozzle branches.",
+    "fitmentNotes": "E90 LCI windshield-cleaning catalog component.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single parts for windshield cleaning",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_2009&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "washer-hose-bushing",
+    "category": "Wash / Wipe",
+    "name": "Windshield Washer Hose Bushing",
+    "oemNumber": "61688248026",
+    "aliases": [
+      "washer hose grommet",
+      "washer line bushing",
+      "washer hose fitting"
+    ],
+    "symptoms": [
+      "washer line loose",
+      "washer fluid leak at hose fitting"
+    ],
+    "location": "Windshield washer hose routing area",
+    "side": "Either",
+    "description": "Small bushing/fitting used in the washer-fluid hose system.",
+    "fitmentNotes": "E90 LCI windshield-cleaning catalog component.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single parts for windshield cleaning",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_2009&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "heated-washer-nozzle",
+    "category": "Wash / Wipe",
+    "name": "Heated Windshield Washer Nozzle",
+    "oemNumber": "61667131299",
+    "aliases": [
+      "washer spray nozzle",
+      "heated washer jet",
+      "windshield spray nozzle"
+    ],
+    "symptoms": [
+      "washer nozzle clogged",
+      "washer spray weak",
+      "no washer spray from hood"
+    ],
+    "location": "Hood/cowl washer nozzle positions",
+    "side": "Either",
+    "description": "Heated spray nozzle that directs washer fluid onto the windshield.",
+    "fitmentNotes": "Heated-nozzle configuration; confirm vehicle wiring/equipment before purchase.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Single parts for windshield cleaning",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_2009&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "washer-hose-bracket",
+    "category": "Wash / Wipe",
+    "name": "Windshield Washer Hose Bracket",
+    "oemNumber": "61667123500",
+    "aliases": [
+      "washer hose clip bracket",
+      "washer line holder",
+      "washer tube bracket"
+    ],
+    "symptoms": [
+      "washer hose loose under hood",
+      "washer line hanging"
+    ],
+    "location": "Under-hood washer-hose routing",
+    "side": "Either",
+    "description": "Bracket used to retain and route the washer-fluid hose.",
+    "fitmentNotes": "E90 LCI windshield-cleaning catalog component.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Single parts for windshield cleaning",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_2009&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "washer-reservoir-connection-piece",
+    "category": "Wash / Wipe",
+    "name": "Washer Reservoir Connection Piece",
+    "oemNumber": "61678377456",
+    "aliases": [
+      "washer tank connector",
+      "washer hose connector",
+      "reservoir outlet fitting"
+    ],
+    "symptoms": [
+      "washer fluid leaking at tank connection",
+      "washer hose disconnected at reservoir"
+    ],
+    "location": "At the windshield-washer reservoir/hose connection",
+    "side": "Either",
+    "description": "Connection fitting used in the washer reservoir hose system.",
+    "fitmentNotes": "E90 LCI washer-reservoir catalog component.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Washer reservoir system",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=61_1879&id=PH77-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-door-window-channel-cover",
+    "category": "Body / Exterior Trim",
+    "name": "Front Left Exterior Door Window Channel Cover — Matte Black",
+    "oemNumber": "51337060235",
+    "aliases": [
+      "front left belt molding",
+      "driver window trim",
+      "outer window strip",
+      "door window trim"
+    ],
+    "symptoms": [
+      "window trim faded",
+      "outer trim loose",
+      "door belt molding damaged"
+    ],
+    "location": "Outside lower edge of the front-left door window",
+    "side": "Driver",
+    "description": "Matte-black exterior channel/belt-line cover at the base of the front-left window.",
+    "fitmentNotes": "Base matte-black version; high-gloss Shadow Line uses a different part number.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Exterior trim / grille / seals",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5732&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "front-right-door-window-channel-cover",
+    "category": "Body / Exterior Trim",
+    "name": "Front Right Exterior Door Window Channel Cover — Matte Black",
+    "oemNumber": "51337060236",
+    "aliases": [
+      "front right belt molding",
+      "passenger window trim",
+      "outer window strip",
+      "door window trim"
+    ],
+    "symptoms": [
+      "window trim faded",
+      "outer trim loose",
+      "door belt molding damaged"
+    ],
+    "location": "Outside lower edge of the front-right door window",
+    "side": "Passenger",
+    "description": "Matte-black exterior channel/belt-line cover at the base of the front-right window.",
+    "fitmentNotes": "Base matte-black version; high-gloss Shadow Line uses a different part number.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Exterior trim / grille / seals",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5732&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-outer-window-weatherstrip",
+    "category": "Body / Exterior Trim",
+    "name": "Rear Left Outer Window Weatherstrip",
+    "oemNumber": "51347060249",
+    "aliases": [
+      "rear left belt molding",
+      "driver rear window weatherstrip",
+      "outer window seal"
+    ],
+    "symptoms": [
+      "rear window seal cracked",
+      "water at rear window",
+      "outer trim damaged"
+    ],
+    "location": "Outside lower edge of the rear-left door window",
+    "side": "Driver",
+    "description": "Outer weatherstrip/belt-line seal along the rear-left door glass.",
+    "fitmentNotes": "E90 LCI sedan rear-door exterior trim.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exterior trim / grille / seals",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5732&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-outer-window-weatherstrip",
+    "category": "Body / Exterior Trim",
+    "name": "Rear Right Outer Window Weatherstrip",
+    "oemNumber": "51357060250",
+    "aliases": [
+      "rear right belt molding",
+      "passenger rear window weatherstrip",
+      "outer window seal"
+    ],
+    "symptoms": [
+      "rear window seal cracked",
+      "water at rear window",
+      "outer trim damaged"
+    ],
+    "location": "Outside lower edge of the rear-right door window",
+    "side": "Passenger",
+    "description": "Outer weatherstrip/belt-line seal along the rear-right door glass.",
+    "fitmentNotes": "E90 LCI sedan rear-door exterior trim.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Exterior trim / grille / seals",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5732&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-left-window-frame-cover",
+    "category": "Body / Exterior Trim",
+    "name": "Rear Left Window Frame Cover",
+    "oemNumber": "51347060221",
+    "aliases": [
+      "rear left window frame trim",
+      "driver rear window surround",
+      "rear door frame cover"
+    ],
+    "symptoms": [
+      "window frame trim loose",
+      "rear door trim missing"
+    ],
+    "location": "Rear-left door window frame",
+    "side": "Driver",
+    "description": "Cover/trim piece around the rear-left door window frame.",
+    "fitmentNotes": "Base catalog version; vehicles with rear-door roller sunshades use a different part number.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Trim and seals for door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5723&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "rear-right-window-frame-cover",
+    "category": "Body / Exterior Trim",
+    "name": "Rear Right Window Frame Cover",
+    "oemNumber": "51347060222",
+    "aliases": [
+      "rear right window frame trim",
+      "passenger rear window surround",
+      "rear door frame cover"
+    ],
+    "symptoms": [
+      "window frame trim loose",
+      "rear door trim missing"
+    ],
+    "location": "Rear-right door window frame",
+    "side": "Passenger",
+    "description": "Cover/trim piece around the rear-right door window frame.",
+    "fitmentNotes": "Base catalog version; vehicles with rear-door roller sunshades use a different part number.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Trim and seals for door, rear",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5723&id=PH73-USA---E90N-BMW-328i"
+  },
+  {
+    "id": "front-left-door-latch",
+    "category": "Door / Locking",
+    "name": "Front Left Door System Latch",
+    "oemNumber": "51217229461",
+    "aliases": [
+      "driver door lock actuator",
+      "front left door latch",
+      "driver door lock mechanism"
+    ],
+    "symptoms": [
+      "driver door will not lock",
+      "driver door will not open",
+      "front door actuator failed"
+    ],
+    "location": "Inside the front-left door",
+    "side": "Driver",
+    "description": "Combined latch and locking mechanism for the driver-side front door.",
+    "fitmentNotes": "RealOEM cross-reference lists this part for E90 LCI 328i N51 USA PH53; part begins 02/2011.",
+    "verification": "verified-subset",
+    "sourceLabel": "RealOEM — Front door control / door lock",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1973&id=PH73-USA-07_2007_E90N_BMW_328i"
+  },
+  {
+    "id": "front-right-door-latch",
+    "category": "Door / Locking",
+    "name": "Front Right Door System Latch",
+    "oemNumber": "51217229458",
+    "aliases": [
+      "passenger door lock actuator",
+      "front right door latch",
+      "passenger door lock mechanism"
+    ],
+    "symptoms": [
+      "passenger door will not lock",
+      "passenger door will not open",
+      "front door actuator failed"
+    ],
+    "location": "Inside the front-right door",
+    "side": "Passenger",
+    "description": "Combined latch and locking mechanism for the passenger-side front door.",
+    "fitmentNotes": "RealOEM cross-reference lists this part for E90 LCI 328i N51 USA PH53; exact applicability can vary with alarm/comfort-access equipment.",
+    "verification": "option-dependent",
+    "sourceLabel": "RealOEM — Front door control / door lock",
+    "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=41_1973&id=PH73-USA-07_2007_E90N_BMW_328i"
+  }
+]

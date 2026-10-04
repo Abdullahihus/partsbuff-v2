@@ -1,0 +1,68 @@
+{
+  "51717059378": [
+    {
+      "retailer": "CarParts.com",
+      "price": 17.99,
+      "currency": "USD",
+      "label": "Replacement fender liner",
+      "availability": "Listing found",
+      "url": "https://www.carparts.com/details/fender-liner/replacement/b222143",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "OE cross-reference 51717059378-PFM; verify exact vehicle fitment before purchase."
+    },
+    {
+      "retailer": "PartsGeek",
+      "price": 39.98,
+      "currency": "USD",
+      "label": "Replacement AP fender liner",
+      "availability": "Listing found",
+      "url": "https://www.partsgeek.com/tghmstx-bmw-335i-xdrive-fender-liner.html",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "Listing cross-references OE 51717059378-PFM; verify exact vehicle fitment before purchase."
+    }
+  ],
+  "17137640514": [
+    {
+      "retailer": "CarParts.com",
+      "price": 54.99,
+      "currency": "USD",
+      "label": "APA/URO Parts coolant reservoir",
+      "availability": "Listing found",
+      "url": "https://www.carparts.com/coolant-reservoir/apa-uro-parts/uro17137640514",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "Replaces OE 17137640514. Confirm fitment and stock on retailer site."
+    },
+    {
+      "retailer": "PartsGeek",
+      "price": 48.97,
+      "currency": "USD",
+      "label": "APA/URO Parts expansion tank",
+      "availability": "Listing found",
+      "url": "https://www.partsgeek.com/d4q9fvc-bmw-328i-expansion-tank.html",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "Listing includes 2007–2011 BMW 328i and OE 17137640514; confirm body/configuration before purchase."
+    }
+  ],
+  "11517586925": [
+    {
+      "retailer": "CarParts.com",
+      "price": 469.99,
+      "currency": "USD",
+      "label": "Pierburg electric water pump",
+      "availability": "Listing found",
+      "url": "https://www.carparts.com/details/water-pump/pierburg/pie702851200",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "Listing references OE 11517586925. Confirm fitment and current stock before purchase."
+    },
+    {
+      "retailer": "PartsGeek",
+      "price": 250.98,
+      "currency": "USD",
+      "label": "DriveMotive water pump",
+      "availability": "Listing found",
+      "url": "https://www.partsgeek.com/f9nl4kh-bmw-328i-water-pump.html",
+      "checkedOn": "2026-09-23",
+      "fitmentNote": "Listing includes 2007–2011 BMW 328i and cross-references OE 11517586925."
+    }
+  ]
+}
