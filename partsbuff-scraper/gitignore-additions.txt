@@ -1,7 +1,0 @@
-
-# Local parts research outputs
-.venv-scraper/
-scraper-cache/
-scraper-output/
-scraper-backups/
-partsbuff-scraper/**/__pycache__/
