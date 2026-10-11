@@ -28,7 +28,7 @@ export const supportedCatalogProfile = {
   label: "2011 BMW 328i Sedan (E90 LCI)",
   details: "USA · N51 · production 11/2011 · left-hand drive",
   targetPartCount: 300,
-  note: "OEM records in this catalog are tied to this supported vehicle profile."
+  note: "Original RealOEM references and additional dealer candidates for this E90. Confirm VIN, production date and equipment before ordering."
 };
 
 // Original RealOEM profile remains available alongside the expanded BMW catalog.

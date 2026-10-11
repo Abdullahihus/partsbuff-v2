@@ -5,8 +5,8 @@ The target was **50 additional sourced OEM records per existing year/model catal
 | Measure | Count |
 | --- | ---: |
 | Vehicle profiles (2000–2026) | 758 |
-| New sourced OEM records | 29,516 |
-| Total sourced records in expanded catalogs | 44,436 |
+| New sourced OEM records | 29,924 |
+| Total sourced records in expanded catalogs | 44,844 |
 | Profiles receiving all 50 additions | 517 |
 | Profiles short of the 50-addition target | 241 |
 | Profiles with at least 50 numbered parts total | 519 |
@@ -14,10 +14,15 @@ The target was **50 additional sourced OEM records per existing year/model catal
 | Additional records still needed | 8,384 |
 | Profiles without sourced OEM numbers | 12 |
 | Clearly marked starter records | 240 |
-| Distinct OEM numbers across expanded catalogs | 6,076 |
-| Original E90 records retained separately | 174 |
+| Distinct OEM numbers across expanded catalogs | 6,457 |
+| Original E90 baseline records preserved | 174 |
+| Current E90 numbered references | 478 |
 
-The same number can occur under multiple vehicles. The original E90 catalog overlaps the expanded 2011 328i reference; do not add 174 to the distinct-number count. 4,477 additions are source-listed OEM hardware (for example screws, clips or washers), included in the totals. Source conditions are retained; confirm VIN, build date, engine and options before ordering. A recorded quantity is not a fitment guarantee.
+The same number can occur under multiple vehicles. The original E90 catalog overlaps the expanded 2011 328i reference; do not add the E90 count again to the distinct-number count. 4,507 additions are source-listed OEM hardware (for example screws, clips or washers), included in the totals. Source conditions are retained; confirm VIN, build date, engine and options before ordering. A recorded quantity is not a fitment guarantee.
+
+## Focused E90 update
+
+The original E90 now has **478 distinct numbered references**, including **304 new dealer candidates**. The ordinary 2011 328i selection uses the same numbers. Counts include option/color variants; new dealer records require exact N51/VIN/build-date checks. See E90-CATALOG.md. Other vehicle catalogs retain their previous records and gaps.
 
 ## Remaining gaps
 

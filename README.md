@@ -49,7 +49,7 @@ Run `npm install` and `npm run build` after updating. To update your connected N
 
 ## Catalog and features
 
-The package keeps VIN lookup, BMW model selection for 2000–2026, catalog search, inline part cards, individual detail pages, RealOEM links, saved parts, and comparison. See `CATALOG-COVERAGE.md` for current counts and the remaining gaps across the 758 year/model profiles. The original 174-part 2011 BMW 328i N51 November 2011 reference catalog is also retained. Part numbers are catalog references; confirm VIN, engine, build date, and options before ordering. Retailer prices are dated snapshots.
+The package keeps VIN lookup, BMW model selection for 2000–2026, catalog search, inline part cards, individual detail pages, RealOEM links, saved parts, and comparison. See `CATALOG-COVERAGE.md` for current counts and the remaining gaps across the 758 year/model profiles. The original 2011 BMW 328i N51 November 2011 E90 catalog now has 478 distinct numbered references: all 174 original records plus 304 additional dealer candidates. See E90-CATALOG.md for scope and source conditions. Part numbers are catalog references; confirm VIN, engine, build date, and options before ordering. Retailer prices are dated snapshots.
 
 The October update aims to add **50 additional numbered parts to each year/model catalog**, usually increasing a catalog from 20 to 70. Existing records are preserved. Additions include OEM hardware where listed by the source. Each added record retains a source link and recorded conditions. A catalog can contain references for different engine/body/trim versions; check each part's `vehicleDetails`, conditions and source against your vehicle. Unresolved models keep clearly marked starter entries rather than guessed part numbers.
 

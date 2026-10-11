@@ -27,3 +27,7 @@ When a feed is available, normalize its records to that format, merge by **vehic
 A scraper reads web pages and extracts fields. Some sites refuse automated access, return a challenge, or limit requests. Repeatedly restarting a blocked scraper does not establish access or produce trustworthy data. Request an export or supported API from the source. This update used saved source pages and additional publicly accessible diagrams where available; unavailable references are reported instead of filled with invented numbers.
 
 The app reads its bundled JSON; it does not automatically update parts from source websites. After changing the data locally, commit and push the changes to your GitHub repository so your connected Netlify deployment can rebuild.
+
+## Focused E90 expansion
+
+The original E90 has 478 numbered references, including 304 new dealer candidates. They are bundled in data/e90-parts.json and mirrored in the ordinary 2011 328i selection. Each new number/name was checked against an explicit dealer source row; recorded conditions are displayed on the detail card/page. Dealer pages mix variants and do not establish November 2011 VIN fitment. All new records remain option-dependent. Read E90-CATALOG.md and data/e90-catalog-coverage.json for the exact scope. Other BMW catalogs were not expanded in this focused update.

@@ -2372,7 +2372,7 @@
       "model": "328i",
       "reference": "N51 · USA sedan · E90 LCI · production 11/2011",
       "sourceUrl": "https://www.realoem.com/bmw/enUS/showparts?diagId=51_5862&id=PH53-USA-11-2011-E90N-BMW-328i",
-      "sourcePartCount": 70,
+      "sourcePartCount": 478,
       "starterPartCount": 0,
       "status": "sourced",
       "variantCount": 1
@@ -8344,7 +8344,7 @@
     "vehicles": 758,
     "sourcedProfiles": 746,
     "partialProfiles": 0,
-    "sourcedParts": 44436,
+    "sourcedParts": 44844,
     "starterParts": 240
   },
   "expansionSummary": {
@@ -8352,8 +8352,8 @@
     "targetAdditionalPartsPerProfile": 50,
     "vehicleProfiles": 758,
     "previousSourcedRecords": 14920,
-    "addedSourcedRecords": 29516,
-    "sourcedRecords": 44436,
+    "addedSourcedRecords": 29924,
+    "sourcedRecords": 44844,
     "profilesWithAll50Additions": 517,
     "profilesShortOf50Additions": 241,
     "profilesWithAtLeast50NumberedParts": 519,
@@ -8361,8 +8361,10 @@
     "additionalRecordsStillNeeded": 8384,
     "profilesWithoutOEMNumbers": 12,
     "starterRecords": 240,
-    "distinctOEMNumbersInExpandedCatalogs": 6076,
+    "distinctOEMNumbersInExpandedCatalogs": 6457,
     "originalE90RecordsRetained": 174,
-    "addedHardwareRecords": 4477
+    "addedHardwareRecords": 4507,
+    "currentE90CatalogRecords": 478,
+    "additionalE90DealerRecords": 304
   }
 }

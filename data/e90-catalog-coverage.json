@@ -1,0 +1,31 @@
+{
+  "checkedOn": "2026-10-11",
+  "profileId": "bmw-e90-328i-n51-usa-2011-11",
+  "reference": "2011 BMW 328i E90 LCI USA N51, production 11/2011, left-hand drive",
+  "targetNumberedParts": 300,
+  "originalNumberedParts": 174,
+  "additionalDealerCandidates": 304,
+  "totalNumberedParts": 478,
+  "distinctOEMNumbers": 478,
+  "verifiedSubsetRecords": 132,
+  "optionDependentRecords": 346,
+  "sourcePagesReviewed": 45,
+  "categories": {
+    "Body": 226,
+    "Brakes": 34,
+    "Cooling": 2,
+    "Door": 34,
+    "Electrical": 8,
+    "Emissions": 2,
+    "Engine": 47,
+    "Engine Electrical": 5,
+    "Exhaust": 13,
+    "Fuel": 13,
+    "HVAC": 14,
+    "Lighting": 5,
+    "Steering": 16,
+    "Suspension": 51,
+    "Wash": 8
+  },
+  "note": "Counts include separate OEM numbers for equipment, color, transmission and suspension variants. New dealer candidates require VIN and November 2011 fitment confirmation."
+}
