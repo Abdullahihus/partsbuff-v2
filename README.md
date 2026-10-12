@@ -60,3 +60,7 @@ Internet access is needed for VIN decoding and external retailer/OEM pages. Loca
 ## Logo
 
 `public/partsbuff-logo.png` contains the blue-and-black chain symbol without the PARTSBUFF wordmark. It is used in the header, footer, and browser icon.
+
+## Prices and seller listings
+
+The E90 has recorded prices for 448 of its 478 OEM references (93.7%), with 553 priced offers. The chart and table show only listings with a positive USD price: one listing means one row and one bar. Unpriced retailer/search links are hidden. Optional live eBay offers require approved server-side credentials and appear only when an actual price is returned. The Shop page is ready for real seller listings from Ben. Read PRICING-AND-SELLING.md for scope, eBay setup and adding inventory/hosted checkout links.

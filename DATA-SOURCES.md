@@ -31,3 +31,7 @@ The app reads its bundled JSON; it does not automatically update parts from sour
 ## Focused E90 expansion
 
 The original E90 has 478 numbered references, including 304 new dealer candidates. They are bundled in data/e90-parts.json and mirrored in the ordinary 2011 328i selection. Each new number/name was checked against an explicit dealer source row; recorded conditions are displayed on the detail card/page. Dealer pages mix variants and do not establish November 2011 VIN fitment. All new records remain option-dependent. Read E90-CATALOG.md and data/e90-catalog-coverage.json for the exact scope. Other BMW catalogs were not expanded in this focused update.
+
+## Price snapshots
+
+This pricing update retains the original price examples and adds source-confirmed product-page snapshots. Coverage is 448 of 478 E90 references (553 priced offers). Sources include BMWOEMParts, saved BMWPartsDeal pages, BMWPartsHub, Buy BMW Parts Now, OEM Vehicle Parts, BMW of South Atlanta, BMWPartsDirect, BMW OEM Parts Store, BMW Parts Express and BimmerWorld. Each quote links to its source and includes the date checked. Prices are advertised USD amounts, not current stock or VIN-fitment guarantees. Included refundable core deposits are identified. The comparison hides listings without a confirmed price and does not create an extra MSRP bar. The optional official eBay Browse API adds only actual priced listings. See PRICING-AND-SELLING.md.

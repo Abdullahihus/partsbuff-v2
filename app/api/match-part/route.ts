@@ -50,7 +50,7 @@ function localMatches(parts: Part[], query: string) {
       reason: x.part.verification === "lookup-required"
         ? "Starter part topic matching your description. OEM number and exact fitment still need confirmation."
         : index === 0
-        ? "Best match based on your words, location, side, and the selected BMW catalog reference."
+        ? "Best match based on your words, location, side, and the selected catalog reference."
         : "Related catalog candidate that also matches part of your description."
     }));
 }
@@ -154,7 +154,7 @@ export async function POST(request: Request) {
     return NextResponse.json({
       matches,
       clarifyingQuestion: matches.length === 0
-        ? "I could not find that in the selected BMW catalog. Try describing its location, side, shape, or what it connects to."
+        ? "I could not find that in the selected catalog. Try describing its location, side, shape, or what it connects to."
         : matches.length === 1
           ? "If this does not look right, tell me which side of the car it is on and what is around it."
           : "",
