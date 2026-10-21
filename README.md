@@ -1,3 +1,11 @@
+## Repair videos
+
+Selected repair videos and vehicle-specific YouTube searches are now available in inline part details and full part pages. No API key is required. Read REPAIR-VIDEOS.md for current guide coverage and how to add more.
+
+# Latest catalog update
+
+**70,000 numbered vehicle-specific records**, including **20,967 additions** in this update. OEM numbers may repeat across vehicle profiles. Read CURRENT-CATALOG.md and data/catalog-update-latest.json for current totals, source selections and per-car changes. All new records remain option-dependent; US model-year and VIN fitment are not confirmed. Older coverage documents below describe earlier snapshots.
+
 # PartsBuff — local app
 
 PartsBuff runs on your own computer with Next.js. No ChatGPT hosting account or deployment setup is required.
